@@ -16078,6 +16078,26 @@
 											</Selector>
 										</Selectors>
 									</Child>
+									<Child Name="textnodeArriving2" Key="{707CDBB8-A9EB-4404-873F-85F2FB19AA5F}">
+										<Image FileName="1451270108" Left="479" Top="491" Right="1647" Bottom="604" />
+										<Selectors>
+											<Selector>
+												<Value Value="//li[contains(., &apos;Arriving&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//li[contains(@class, &apos;p-4&apos;)]" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="panelPoupdatedcomodity" Key="{7A6976BD-23D2-44E4-A6E6-E265EA75AC48}">
+										<Image FileName="1451270108" Left="967" Top="515" Right="1255" Bottom="537" />
+										<TypeInfo Item0="{D0C17A97-FBCB-484E-B458-261FDAEB6BCB}" />
+										<Selectors>
+											<Selector>
+												<Value Value="//div[contains(text(), &apos;POUpdatedComodity&apos;)]" />
+											</Selector>
+										</Selectors>
+									</Child>
 								</Children>
 							</Child>
 							<Child Name="BrowserWindow" Key="{04F3F450-5526-4092-96D2-21C0884F59D5}">
@@ -17843,6 +17863,21 @@
 													</Property>
 													<Property Name="Caption">
 														<Value Value="Los Angeles" />
+													</Property>
+													<Property Name="ObjectGroupIndex">
+														<Value Value="1" Type="0" />
+													</Property>
+												</Properties>
+											</Child>
+											<Child Name="listitemPoupdated" Key="{9D07F5EB-D54E-48FC-8724-F90AAE562838}">
+												<Image FileName="-612271834" Left="7" Top="31" Right="557" Bottom="48" />
+												<TypeInfo Item0="{ECEED1AB-62AC-4144-8E61-E4E2F8BA7D12}" />
+												<Properties>
+													<Property Name="ObjectType">
+														<Value Value="ListItem" />
+													</Property>
+													<Property Name="Caption">
+														<Value Value="POUPDATED" />
 													</Property>
 													<Property Name="ObjectGroupIndex">
 														<Value Value="1" Type="0" />
@@ -20029,6 +20064,23 @@
 																										<Value Value="1" Type="0" />
 																									</Property>
 																								</Properties>
+																								<Children>
+																									<Child Name="buttonOpen" Key="{82AE5D43-57E8-4F55-B24F-FBA93C766A35}">
+																										<Image FileName="-1740487790" Left="546" Top="405" Right="561" Bottom="424" />
+																										<TypeInfo Item0="{ECEED1AB-62AC-4144-8E61-E4E2F8BA7D12}" />
+																										<Properties>
+																											<Property Name="ObjectType">
+																												<Value Value="Button" />
+																											</Property>
+																											<Property Name="Caption">
+																												<Value Value="Open" />
+																											</Property>
+																											<Property Name="ObjectGroupIndex">
+																												<Value Value="1" Type="0" />
+																											</Property>
+																										</Properties>
+																									</Child>
+																								</Children>
 																							</Child>
 																							<Child Name="cbxBoolean" Key="{492C107A-CC7B-445E-BB35-391AA3F45287}">
 																								<Image FileName="-411839225" Left="325" Top="568" Right="562" Bottom="589" />
@@ -21117,6 +21169,20 @@
 										</Properties>
 									</Child>
 								</Children>
+							</Child>
+							<Child Name="listIncoTerms" Key="{1E9D8EE0-7FA5-402D-AD06-0EE428C993AD}">
+								<Image FileName="-904246547" Left="0" Top="0" Right="237" Bottom="41" />
+								<Properties>
+									<Property Name="ObjectType">
+										<Value Value="List" />
+									</Property>
+									<Property Name="Caption">
+										<Value Value="INCO Terms" />
+									</Property>
+									<Property Name="ObjectGroupIndex">
+										<Value Value="1" Type="0" />
+									</Property>
+								</Properties>
 							</Child>
 						</Children>
 					</Child>
@@ -22454,6 +22520,9 @@
 							<Child Name="panel1xBag" Owner="{9630AB2D-B008-427E-8EB4-D528AF172975}" />
 							<Child Name="panelQuantity20" Owner="{B06584F6-7F5D-470A-A64C-5E7B68F5067C}" />
 						</Child>
+						<Child Name="textnodeArriving2" Owner="{707CDBB8-A9EB-4404-873F-85F2FB19AA5F}">
+							<Child Name="panelPoupdatedcomodity" Owner="{7A6976BD-23D2-44E4-A6E6-E265EA75AC48}" />
+						</Child>
 					</Child>
 					<Child Name="panel2ponumber" Owner="{7AAA0410-12D2-4371-98DF-3E236CF6D829}" />
 					<Child Name="panelPronumberupdated" Owner="{9CD43A7A-E7DB-491E-A6C3-F037294E06F5}" />
@@ -22881,6 +22950,7 @@
 					<Child Name="listitemCma" Owner="{F3598E10-6CBA-40AD-B648-D29CBDC329E9}" />
 					<Child Name="checkboxArriving" Owner="{A1D9F44E-DC01-4528-B732-7D728137D682}" />
 					<Child Name="listitemLosAngeles" Owner="{9ECD26B6-0CB7-45BE-9309-C4DBCD8BDFE3}" />
+					<Child Name="listitemPoupdated" Owner="{9D07F5EB-D54E-48FC-8724-F90AAE562838}" />
 				</Child>
 				<Child Name="btnOK" Owner="{18F54034-9518-4445-B27B-D992418ABEA5}" />
 				<Child Name="btnAdd" Owner="{0AF557EB-9308-444A-B62D-1FBC38A3EB78}" />
@@ -23101,7 +23171,9 @@
 										<Child Name="editTextShipperRef" Owner="{57CB867F-861D-4721-AE93-EFF15647B74E}" />
 										<Child Name="editCnsigneeRef" Owner="{4D0D79AE-A42C-45CD-AE6B-7E6F596BB74A}" />
 										<Child Name="dtCargoReadyDate" Owner="{77339DE9-AB6F-45CC-93CE-04AD0DC3182A}" />
-										<Child Name="cbxINCOTerms" Owner="{E68F432F-9C5D-4C3D-AE3C-799C72D5872E}" />
+										<Child Name="cbxINCOTerms" Owner="{E68F432F-9C5D-4C3D-AE3C-799C72D5872E}">
+											<Child Name="buttonOpen" Owner="{82AE5D43-57E8-4F55-B24F-FBA93C766A35}" />
+										</Child>
 										<Child Name="cbxBoolean" Owner="{492C107A-CC7B-445E-BB35-391AA3F45287}" />
 										<Child Name="editShipmentguid" Owner="{592582A1-1DB7-4B8F-B4E0-3C6029B64D2C}" />
 										<Child Name="editDFPForwarder" Owner="{23835414-83FD-42F4-AF13-5515C930020B}" />
@@ -23180,6 +23252,7 @@
 				<Child Name="menuitemCreateShipment" Owner="{9D52591A-3686-4336-BF0A-895ACD13D310}" />
 				<Child Name="menuitemAddCopies" Owner="{CC00DBAC-C71B-45D7-AF29-56ABBB9D7EA8}" />
 			</Child>
+			<Child Name="listIncoTerms" Owner="{1E9D8EE0-7FA5-402D-AD06-0EE428C993AD}" />
 		</Child>
 		<Child Name="SourceTree" Owner="{6D5084A7-EDE9-457F-AE23-A21E49DFD672}">
 			<Child Name="HwndSource_MainWindow" Owner="{AE58B615-ECF7-4532-AE2A-1482D2DC6084}">
