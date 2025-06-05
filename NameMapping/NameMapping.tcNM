@@ -12136,7 +12136,7 @@
 										<TypeInfo Item0="{D0C17A97-FBCB-484E-B458-261FDAEB6BCB}" />
 										<Selectors>
 											<Selector>
-												<Value Value="//div[contains(text(), &apos;AAUTOMATION16JAN&apos;)]" />
+												<Value Value="xpath=//div[contains(text(), &apos;AAUTOMATION&apos;)]" />
 											</Selector>
 											<Selector>
 												<Value Value="//div[@role=&apos;option&apos;]" />
