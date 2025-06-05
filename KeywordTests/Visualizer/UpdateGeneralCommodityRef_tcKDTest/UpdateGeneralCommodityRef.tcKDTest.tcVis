@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{42D2222C-ACA2-405F-8E67-05D5C42EB839}" version="2">
+	<data key="{9F3EA58F-4F55-4C37-B29B-231C12AB9DCA}">
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="0" kind="0" dateTime="45678.8106365741" objectName="Aliases.ExpExpl.dlg.tbcAccountingTransaction" objectLeft="14" objectTop="38" objectRight="811" objectBottom="599" clickPointX="44" clickPointY="50" imageFileName="tcvi7623800048000.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="1" kind="0" dateTime="45678.8021643519" objectName="Aliases.ExpExpl.dlg.page327702.editDescriptionOfGoods" objectLeft="170" objectTop="440" objectRight="797" objectBottom="584" clickPointX="294" clickPointY="451" imageFileName="tcvi7550675048001.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="2" kind="0" dateTime="45678.8022222222" objectName="Aliases.ExpExpl.dlg.page327702.editDescriptionOfGoods" objectLeft="170" objectTop="440" objectRight="797" objectBottom="584" clickPointX="-549" clickPointY="-200" imageFileName="tcvi7550798448002.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="3" kind="0" dateTime="45678.8023148148" objectName="Aliases.ExpExpl.dlg.page327702.editReferenceNo" objectLeft="170" objectTop="101" objectRight="320" objectBottom="121" clickPointX="264" clickPointY="117" imageFileName="tcvi7551909348003.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="4" kind="0" dateTime="45678.802337963" objectName="Aliases.ExpExpl.dlg.page327702.editReferenceNo" objectLeft="170" objectTop="101" objectRight="320" objectBottom="121" clickPointX="-549" clickPointY="-200" imageFileName="tcvi7552026548004.png" storageFileName="" needUpdate="False" rectColor="255" />
+	</data>
+</Root>

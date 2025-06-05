@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{42D2222C-ACA2-405F-8E67-05D5C42EB839}" version="2">
+	<data key="{8B3BE504-3DFD-4CC8-A31A-DBC2FA730F62}">
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="1" kind="0" dateTime="45688.6722916667" objectName="Aliases.ExpExpl.dlg.page327702.btnAdd2" objectLeft="476" objectTop="67" objectRight="550" objectBottom="90" clickPointX="491" clickPointY="76" imageFileName="tcvi592498734155160.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="2" kind="0" dateTime="45688.6723148148" objectName="Aliases.ExpExpl.dlg.page327702.btnAdd2" objectLeft="-8" objectTop="-8" objectRight="1928" objectBottom="1048" clickPointX="-1" clickPointY="-1" imageFileName="tcvi592500171155163.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="3" kind="0" dateTime="45688.672337963" objectName="Aliases.ExpExpl.dlg.pageGeneral.Edit" objectLeft="29" objectTop="130" objectRight="286" objectBottom="150" clickPointX="146" clickPointY="139" imageFileName="tcvi592502656155165.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="4" kind="0" dateTime="45688.6723611111" objectName="Aliases.ExpExpl.dlg.pageGeneral.Edit" objectLeft="29" objectTop="130" objectRight="286" objectBottom="150" clickPointX="-673" clickPointY="-220" imageFileName="tcvi592503453155166.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="5" kind="0" dateTime="45688.6723958333" objectName="Aliases.ExpExpl.dlg.ListView" objectLeft="7" objectTop="7" objectRight="574" objectBottom="213" clickPointX="107" clickPointY="36" imageFileName="tcvi592507765155167.png" storageFileName="" needUpdate="False" rectColor="255" />
+	</data>
+</Root>

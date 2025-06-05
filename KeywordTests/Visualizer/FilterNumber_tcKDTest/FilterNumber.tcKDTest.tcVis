@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{42D2222C-ACA2-405F-8E67-05D5C42EB839}" version="2">
+	<data key="{671CE4A4-85F1-4CA7-981F-E716482396DF}">
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="0" kind="0" dateTime="45674.9109606482" objectName="Aliases.chrome2.pageMagayaLivetrack4027.textnodeSplitbuttonBtniconel" objectLeft="334" objectTop="993" objectRight="373" objectBottom="1009" clickPointX="355" clickPointY="998" imageFileName="tcvi721385980520.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="1" kind="0" dateTime="45674.9109953704" objectName="Aliases.chrome2.pageMagayaLivetrack4027.textboxNumber" objectLeft="976" objectTop="474" objectRight="1204" objectBottom="496" clickPointX="1017" clickPointY="485" imageFileName="tcvi721687580522.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="2" kind="0" dateTime="45674.9110185185" objectName="Aliases.chrome2.pageMagayaLivetrack4027.textboxNumber" objectLeft="976" objectTop="474" objectRight="1204" objectBottom="496" clickPointX="-1" clickPointY="-1" imageFileName="tcvi721842180523.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="3" kind="0" dateTime="45674.9110416667" objectName="Aliases.chrome2.pageMagayaLivetrack4027.textnodeOk" objectLeft="1088" objectTop="874" objectRight="1116" objectBottom="890" clickPointX="1100" clickPointY="877" imageFileName="tcvi722059380524.png" storageFileName="" needUpdate="False" rectColor="255" />
+	</data>
+</Root>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{42D2222C-ACA2-405F-8E67-05D5C42EB839}" version="2">
+	<data key="{1FEBB7AB-A526-4713-9780-A5E16D58A840}">
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="0" kind="0" dateTime="45674.7786921296" objectName="Aliases.ExpExpl.dlg.tbcAccountingTransaction" objectLeft="14" objectTop="38" objectRight="645" objectBottom="571" clickPointX="239" clickPointY="45" imageFileName="tcvi931089031360.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="1" kind="0" dateTime="45674.7787152778" objectName="Aliases.ExpExpl.dlg.page327702.Edit3" objectLeft="29" objectTop="94" objectRight="631" objectBottom="557" clickPointX="169" clickPointY="141" imageFileName="tcvi931235931361.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="2" kind="0" dateTime="45674.7787268519" objectName="Aliases.ExpExpl.dlg.page327702.Edit3" objectLeft="29" objectTop="94" objectRight="631" objectBottom="557" clickPointX="-471" clickPointY="-188" imageFileName="tcvi931346831362.png" storageFileName="" needUpdate="False" rectColor="255" />
+	</data>
+</Root>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{42D2222C-ACA2-405F-8E67-05D5C42EB839}" version="2">
+	<data key="{D1CBE89E-38AA-4269-A51D-64E8CCB799A8}">
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="0" kind="0" dateTime="45686.9200810185" objectName="Aliases.browser.pageMagaya8.sectionMyPortal.navSummary2.linkChargesInvoices.panelChargesInvoices" objectLeft="901" objectTop="306" objectRight="1042" objectBottom="328" clickPointX="939" clickPointY="315" imageFileName="tcvi441107546120280.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="2" kind="0" dateTime="45686.9202662037" objectName="Aliases.browser.pageMagaya8.sectionMyPortal.textnodeDescription.textnodeCartageFee.panelAgentProfitShare" objectLeft="385" objectTop="664" objectRight="1061" objectBottom="686" clickPointX="426" clickPointY="677" imageFileName="tcvi441123703120281.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="4" kind="0" dateTime="45686.9223263889" objectName="Aliases.chrome2.pageMagayaQaDfp.sectionQwyk.textnodePreInvoice.textnodePreInvoice2.panelStorageFee" objectLeft="-1" objectTop="-1" objectRight="-1" objectBottom="-1" clickPointX="-1" clickPointY="-1" imageFileName="tcvi441301484120280.png" storageFileName="" needUpdate="False" rectColor="255" />
+	</data>
+</Root>

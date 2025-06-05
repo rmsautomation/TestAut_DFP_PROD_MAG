@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{42D2222C-ACA2-405F-8E67-05D5C42EB839}" version="2">
+	<data key="{894B27F1-B3F9-4DA9-A975-9AEB879592DE}">
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="1" kind="0" dateTime="45695.8654166667" objectName="Aliases.ExpExpl.mainWindow.mainFrame.page327702.ListView" objectLeft="307" objectTop="174" objectRight="1919" objectBottom="1001" clickPointX="347" clickPointY="207" imageFileName="tcvi3633293755200.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="4" kind="0" dateTime="45720.6104050926" objectName="Aliases.ExpExpl.mainWindow.mainFrame.page327702.ListView.listitemFirst" objectLeft="307" objectTop="198" objectRight="1107" objectBottom="219" clickPointX="327" clickPointY="208" imageFileName="tcvi21150995374201.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="5" kind="0" dateTime="45720.6104513889" objectName="Aliases.ExpExpl.popupContext.menuitemCreateShipment" objectLeft="3" objectTop="281" objectRight="234" objectBottom="303" clickPointX="62" clickPointY="293" imageFileName="tcvi21151456274203.png" storageFileName="" needUpdate="False" rectColor="255" />
+	</data>
+</Root>

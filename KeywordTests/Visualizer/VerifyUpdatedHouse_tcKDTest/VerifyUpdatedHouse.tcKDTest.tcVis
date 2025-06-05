@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{42D2222C-ACA2-405F-8E67-05D5C42EB839}" version="2">
+	<data key="{90D5E416-92BC-40C0-94FA-AB809EE971B6}">
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="0" kind="0" dateTime="45701.8593402778" objectName="Aliases.chrome2.pageMagayaQaDfp.sectionQwyk.panelNewYorkNy" objectLeft="636" objectTop="503" objectRight="697" objectBottom="520" clickPointX="660" clickPointY="509" imageFileName="tcvi92517843124840.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="2" kind="0" dateTime="45701.8593865741" objectName="Aliases.chrome2.pageMagayaQaDfp.sectionQwyk.panelRotterdamZh" objectLeft="1075" objectTop="503" objectRight="1136" objectBottom="520" clickPointX="1110" clickPointY="508" imageFileName="tcvi92521656124841.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="4" kind="0" dateTime="45701.8656597222" objectName="Aliases.browser.pageMagaya8.sectionMyPortal.navSummary2.linkBookingDetails.panelBookingDetails" objectLeft="751" objectTop="340" objectRight="869" objectBottom="362" clickPointX="809" clickPointY="349" imageFileName="tcvi93063984124840.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="6" kind="0" dateTime="45701.865775463" objectName="Aliases.browser.pageMagaya8.sectionMyPortal.textnodeBillingClient.textnodeCarrier.panelAirupdated" objectLeft="532" objectTop="800" objectRight="1710" objectBottom="822" clickPointX="553" clickPointY="807" imageFileName="tcvi93073765124841.png" storageFileName="" needUpdate="False" rectColor="255" />
+	</data>
+</Root>

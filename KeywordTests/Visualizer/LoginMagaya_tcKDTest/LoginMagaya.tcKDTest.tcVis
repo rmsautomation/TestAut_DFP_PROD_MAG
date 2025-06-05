@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{42D2222C-ACA2-405F-8E67-05D5C42EB839}" version="2">
+	<data key="{84D4BD85-0590-4194-90CD-10C1FB2D5D75}">
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="2" kind="0" dateTime="45665.7815162037" objectName="Aliases.ExpExpl.dlg.editUsername" objectLeft="374" objectTop="132" objectRight="599" objectBottom="158" clickPointX="-610" clickPointY="-324" imageFileName="tcvi80809468276011.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="3" kind="0" dateTime="45665.7845717593" objectName="Aliases.ExpExpl.dlg.editPassword" objectLeft="374" objectTop="203" objectRight="599" objectBottom="229" clickPointX="-610" clickPointY="-324" imageFileName="tcvi81074359276013.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="4" kind="0" dateTime="45665.7846180556" objectName="Aliases.ExpExpl.dlg.btnLogin" objectLeft="345" objectTop="335" objectRight="483" objectBottom="371" clickPointX="460" clickPointY="353" imageFileName="tcvi81078718276014.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="5" kind="0" dateTime="45674.8436921296" objectName="Aliases.ExpExpl.wndAfx2" objectLeft="0" objectTop="0" objectRight="1440" objectBottom="759" clickPointX="-1" clickPointY="-1" imageFileName="tcvi140118790560.png" storageFileName="" needUpdate="False" rectColor="255" />
+	</data>
+</Root>

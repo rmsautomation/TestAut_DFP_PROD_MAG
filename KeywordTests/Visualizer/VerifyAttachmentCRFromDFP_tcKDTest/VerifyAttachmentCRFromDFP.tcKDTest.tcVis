@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{42D2222C-ACA2-405F-8E67-05D5C42EB839}" version="2">
+	<data key="{7129002A-CBD8-4E4B-9047-72D5CC14659C}">
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="1" kind="0" dateTime="45705.6311342593" objectName="Aliases.ExpExpl.dlg.tbcAccountingTransaction" objectLeft="14" objectTop="38" objectRight="562" objectBottom="444" clickPointX="406" clickPointY="52" imageFileName="tcvi418401109118641.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="2" kind="0" dateTime="45705.6311921296" objectName="Aliases.ExpExpl.dlg.page327702.ListView" objectLeft="29" objectTop="71" objectRight="454" objectBottom="383" clickPointX="73" clickPointY="105" imageFileName="tcvi418405109118642.png" storageFileName="" needUpdate="False" rectColor="255" />
+	</data>
+</Root>

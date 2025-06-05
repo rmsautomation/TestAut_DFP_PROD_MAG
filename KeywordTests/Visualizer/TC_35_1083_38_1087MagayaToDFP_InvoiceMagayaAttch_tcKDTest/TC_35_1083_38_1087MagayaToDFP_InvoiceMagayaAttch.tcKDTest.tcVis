@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{42D2222C-ACA2-405F-8E67-05D5C42EB839}" version="2">
+	<data key="{525454B4-50FE-4DC5-9E0E-D807136ACC2B}">
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="6" kind="0" dateTime="45673.6833680556" objectName="Aliases.ExpExpl.wndAfx2.AfxMDIFrame140u.TreeView" objectLeft="-1" objectTop="-1" objectRight="-1" objectBottom="-1" clickPointX="-1" clickPointY="-1" imageFileName="tcvi602771250146880.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="11" kind="0" dateTime="45673.8226388889" objectName="Aliases.ExpExpl.wndAfx2.AfxMDIFrame140u.AfxFrameOrView140u.page32770.ListView" objectLeft="-1" objectTop="-1" objectRight="-1" objectBottom="-1" clickPointX="-1" clickPointY="-1" imageFileName="tcvi614804125202160.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="13" kind="0" dateTime="45673.8241435185" objectName="Aliases.ExpExpl.dlg.btnOK" objectLeft="408" objectTop="577" objectRight="483" objectBottom="600" clickPointX="446" clickPointY="592" imageFileName="tcvi614934171202160.png" storageFileName="" needUpdate="False" rectColor="255" />
+	</data>
+</Root>

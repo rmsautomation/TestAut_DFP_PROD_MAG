@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{AA2F3067-5C9B-4CCF-89D4-1F93CE1C510F}" version="15.0">
+	<children>
+		<child name="test_jpg" key="{92B9A51B-2570-4080-BF58-21C11E061692}">
+			<data signature="{FC92F8D9-8A57-4D74-B8B4-479AA50BF647}" version="15.0" caption="test_jpg" ID="{92B9A51B-2570-4080-BF58-21C11E061692}" FileName="Files\test.jpg" Update="False" />
+		</child>
+		<child name="test1_png" key="{D9F37FD3-DA75-43CB-8424-9A45CFA7A267}">
+			<data signature="{FC92F8D9-8A57-4D74-B8B4-479AA50BF647}" version="15.0" caption="test1_png" ID="{D9F37FD3-DA75-43CB-8424-9A45CFA7A267}" FileName="Files\test1.png" Update="False" />
+		</child>
+		<child name="test2_pdf" key="{25F1C262-237E-4883-A1B6-D1686643C78B}">
+			<data signature="{FC92F8D9-8A57-4D74-B8B4-479AA50BF647}" version="15.0" caption="test2_pdf" ID="{25F1C262-237E-4883-A1B6-D1686643C78B}" FileName="Files\test2.pdf" Update="False" />
+		</child>
+		<child name="Testing_Attachments_docx" key="{01998ED4-F640-4AD1-BB6F-5D5C89C5F83C}">
+			<data signature="{FC92F8D9-8A57-4D74-B8B4-479AA50BF647}" version="15.0" caption="Testing_Attachments_docx" ID="{01998ED4-F640-4AD1-BB6F-5D5C89C5F83C}" FileName="Files\Testing Attachments.docx" Update="False" />
+		</child>
+		<child name="TT_Attachments__1__zip" key="{7AD72647-BF34-45F8-A30C-26BCB33FA66A}">
+			<data signature="{FC92F8D9-8A57-4D74-B8B4-479AA50BF647}" version="15.0" caption="TT_Attachments__1__zip" ID="{7AD72647-BF34-45F8-A30C-26BCB33FA66A}" FileName="Files\TT-Attachments (1).zip" Update="False" />
+		</child>
+		<child name="UPDATED_txt" key="{BB5F1FB1-88B9-4F4F-90D8-D9A45DF64DA8}">
+			<data signature="{FC92F8D9-8A57-4D74-B8B4-479AA50BF647}" version="15.0" caption="UPDATED_txt" ID="{BB5F1FB1-88B9-4F4F-90D8-D9A45DF64DA8}" FileName="Files\UPDATED.txt" Update="False" />
+		</child>
+		<child name="RoundPriceUpdated_xlsx" key="{5276D04F-2352-4A8C-AB6E-130D202E1D8E}">
+			<data signature="{FC92F8D9-8A57-4D74-B8B4-479AA50BF647}" version="15.0" caption="RoundPriceUpdated_xlsx" ID="{5276D04F-2352-4A8C-AB6E-130D202E1D8E}" FileName="Files\RoundPriceUpdated.xlsx" Update="False" />
+		</child>
+		<child name="attachCommodity_pdf" key="{E198F7C8-648A-4389-90F0-121175C8233C}">
+			<data signature="{FC92F8D9-8A57-4D74-B8B4-479AA50BF647}" version="15.0" caption="attachCommodity_pdf" ID="{E198F7C8-648A-4389-90F0-121175C8233C}" FileName="Files\attachCommodity.pdf" Update="False" />
+		</child>
+		<child name="attachDFP_pdf" key="{0BEDC6B0-4744-4712-B7EC-55A7D4583B4E}">
+			<data signature="{FC92F8D9-8A57-4D74-B8B4-479AA50BF647}" version="15.0" caption="attachDFP_pdf" ID="{0BEDC6B0-4744-4712-B7EC-55A7D4583B4E}" FileName="Files\attachDFP.pdf" Update="False" />
+		</child>
+		<child name="CSVDFP_csv" key="{11C746D9-0FD6-423F-9722-C2A87CBF1A61}">
+			<data signature="{FC92F8D9-8A57-4D74-B8B4-479AA50BF647}" version="15.0" caption="CSVDFP_csv" ID="{11C746D9-0FD6-423F-9722-C2A87CBF1A61}" FileName="Files\CSVDFP.csv" Update="False" />
+		</child>
+		<child name="DOCDFP_docx" key="{171C22E0-C3B3-4743-8C5A-250822638D62}">
+			<data signature="{FC92F8D9-8A57-4D74-B8B4-479AA50BF647}" version="15.0" caption="DOCDFP_docx" ID="{171C22E0-C3B3-4743-8C5A-250822638D62}" FileName="Files\DOCDFP.docx" Update="False" />
+		</child>
+		<child name="JSON_MAGAYA_json" key="{4F1557D1-1DD7-4C38-A605-29747067166B}">
+			<data signature="{FC92F8D9-8A57-4D74-B8B4-479AA50BF647}" version="15.0" caption="JSON_MAGAYA_json" ID="{4F1557D1-1DD7-4C38-A605-29747067166B}" FileName="Files\JSON_MAGAYA.json" Update="False" />
+		</child>
+		<child name="MSGDFP_msg" key="{F1D04D1A-E979-4907-AA56-2E1017A6D7D2}">
+			<data signature="{FC92F8D9-8A57-4D74-B8B4-479AA50BF647}" version="15.0" caption="MSGDFP_msg" ID="{F1D04D1A-E979-4907-AA56-2E1017A6D7D2}" FileName="Files\MSGDFP.msg" Update="False" />
+		</child>
+		<child name="PDFDFP_pdf" key="{84239AC2-B2F0-42CB-8264-F5637A2C3068}">
+			<data signature="{FC92F8D9-8A57-4D74-B8B4-479AA50BF647}" version="15.0" caption="PDFDFP_pdf" ID="{84239AC2-B2F0-42CB-8264-F5637A2C3068}" FileName="Files\PDFDFP.pdf" Update="False" />
+		</child>
+		<child name="TXT_MAGAYA_txt" key="{7E73B940-C4C2-46E7-BD88-3E874169CCBC}">
+			<data signature="{FC92F8D9-8A57-4D74-B8B4-479AA50BF647}" version="15.0" caption="TXT_MAGAYA_txt" ID="{7E73B940-C4C2-46E7-BD88-3E874169CCBC}" FileName="Files\TXT_MAGAYA.txt" Update="False" />
+		</child>
+		<child name="XLSDFP_xlsx" key="{B302EB71-A323-4CE2-94E7-B14EC5ACD885}">
+			<data signature="{FC92F8D9-8A57-4D74-B8B4-479AA50BF647}" version="15.0" caption="XLSDFP_xlsx" ID="{B302EB71-A323-4CE2-94E7-B14EC5ACD885}" FileName="Files\XLSDFP.xlsx" Update="False" />
+		</child>
+		<child name="XML_MAGAYA_xml" key="{176D9BFC-BDFA-445B-B641-8C686AC37224}">
+			<data signature="{FC92F8D9-8A57-4D74-B8B4-479AA50BF647}" version="15.0" caption="XML_MAGAYA_xml" ID="{176D9BFC-BDFA-445B-B641-8C686AC37224}" FileName="Files\XML_MAGAYA.xml" Update="False" />
+		</child>
+		<child name="cleanRegistryMagaya_bat" key="{2B3F6670-1C3C-4888-9D4A-FE4816D9731F}">
+			<data signature="{FC92F8D9-8A57-4D74-B8B4-479AA50BF647}" version="15.0" caption="cleanRegistryMagaya_bat" ID="{2B3F6670-1C3C-4888-9D4A-FE4816D9731F}" FileName="Files\cleanRegistryMagaya.bat" Update="False" />
+		</child>
+		<child name="closeExpExpl_bat" key="{6272B52C-8EA2-49A6-AF32-FE514CCE898F}">
+			<data signature="{FC92F8D9-8A57-4D74-B8B4-479AA50BF647}" version="15.0" caption="closeExpExpl_bat" ID="{6272B52C-8EA2-49A6-AF32-FE514CCE898F}" FileName="Files\closeExpExpl.bat" Update="False" />
+		</child>
+	</children>
+</Root>

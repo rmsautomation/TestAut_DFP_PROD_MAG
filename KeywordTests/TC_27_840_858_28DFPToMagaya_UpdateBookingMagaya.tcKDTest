@@ -1,0 +1,429 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{B9D9273E-7266-43E0-BF02-97F168593604}" version="15.0">
+	<TestData Description="" Key="{5839956D-6DF7-407C-AE53-B3100B0E0BF5}" Tags="@s1TC_22_24_27_50" Type="{79147B28-EE20-4294-B773-1D3787FBF37B}">
+		<Data>
+			<Extenders>
+				<NodeBitmaps>
+					<Bitmap Name="Aliases.browser.pageMagaya8" Data="61717A69700000000100000036040000780173F235636100033320A901C40250CCC8A000640101541EC2A10DC92EC421A516ABDE61D7EF707EC7CD1B2F7CCEFDFC65BFFEEA358DC2CE2E0E7119197CB64ADA4A45B92C75FBE4B1CEEB3F08F79EE9FB3FF3E9BFFFDE1721D8E3C4A7CFD23EB1B1D8CC90B2938AF258EBF50FA617447BAEF3FE7FFAD5B5FFD1571166785FF8FB4FDA37360ED90C909B5D96B97D46D79BBE27F37FF7999EFFBBDEFE85BB01E4168F139FBF7088CBCAC2CC508B516F47D69BBA3BEDFFFDC7A7FEFF3C38EFFFCFFD73FEFF79F7F47FF16D243700CDD02CEAEE86E9B7EEB7BD04D3EFB9DEFBFF8367E7FF7FED0FFCFFA5D5098CBFF6F8FEBFF3EC198A1BEC375EBB0ED3EFB6C2E31B4C7FCF99DEFFBF4EAC86EB8599F1F3D0C2FF49D7116EF03AF7EB374CBFEB7277B0FEC04DC1FF4F5F7DF5FFD7990D18FA7F1D5DF63FEE1A42BFE7D99FBF60FAADFB6C2E80EC5F7163D5FFC4C477FF8FEE7BFBFFDBF438B8195FA744FE3FFFE21D8AFBEDD65DBE02D3AF1AA1D698B433F9FFBA8D9FFE5B5ABEFAEFEEFEFAFFFE9DEFFEFF38BFE3FFEF0BDBFEFFFBFEF9FFBE77FFFEAF7B85C0FE654DCD30FD6C7C6CA21B4EEF7AE3EDFD06AC1F6406083B38BCFEEFE9F906037B783CFDCEC3A3A004D30FA2151583C22D2D5FFE83E9C5478B8BC7A622EB85B145454363CDCCEE7FC6A5D7CCECC11731B1C844987A6C341B9B84949C5C759BBEFE814BE6E68FBE81B0BEFEC14B727235ED6C6C92D2D8F4502206005B5EADC2" />
+					<Bitmap Name="Aliases.browser.pageMagaya8.sectionMyPortal" Data="61717A69700000000100000036040000780173F235636100033320A901C40250CCC8A000640101541EC2A10DC92EC421A516ABDE61D7EF707EC7CD1B2F7CCEFDFC65BFFEEA358DC2CE2E0E7119197CB64ADA4A45B92C75FBE4B1CEEB3F08F79EE9FB3FF3E9BFFFDE1721D8E3C4A7CFD23EB1B1D8CC90B2938AF258EBF50FA617447BAEF3FE7FFAD5B5FFD1571166785FF8FB4FDA37360ED90C909B5D96B97D46D79BBE27F37FF7999EFFBBDEFE85BB01E4168F139FBF7088CBCAC2CC508B516F47D69BBA3BEDFFFDC7A7FEFF3C38EFFFCFFD73FEFF79F7F47FF16D243700CDD02CEAEE86E9B7EEB7BD04D3EFB9DEFBFF8367E7FF7FED0FFCFFA5D5098CBFF6F8FEBFF3EC198A1BEC375EBB0ED3EFB6C2E31B4C7FCF99DEFFBF4EAC86EB8599F1F3D0C2FF49D7116EF03AF7EB374CBFEB7277B0FEC04DC1FF4F5F7DF5FFD7990D18FA7F1D5DF63FEE1A42BFE7D99FBF60FAADFB6C2E80EC5F7163D5FFC4C477FF8FEE7BFBFFDBF438B8195FA744FE3FFFE21D8AFBEDD65DBE02D3AF1AA1D698B433F9FFBA8D9FFE5B5ABEFAEFEEFEFAFFFE9DEFFEFF38BFE3FFEF0BDBFEFFFBFEF9FFBE77FFFEAF7B85C0FE654DCD30FD6C7C6CA21B4EEF7AE3EDFD06AC1F6406083B38BCFEEFE9F906037B783CFDCEC3A3A004D30FA2151583C22D2D5FFE83E9C5478B8BC7A622EB85B145454363CDCCEE7FC6A5D7CCECC11731B1C844987A6C341B9B84949C5C759BBEFE814BE6E68FBE81B0BEFEC14B727235ED6C6C92D2D8F4502206005B5EADC2" />
+					<Bitmap Name="Aliases.chrome2" Data="61717A6970000000010000003604000078016D925B48D3511CC7BD21A229D3CCD434E736E7BCCC6D6A62BAB9B92E6A53BAD9434146D0058AE825E8625AE48B2FB69989E53DBA40606F3D949597F2CAC07F3D091129BA792175538B82FFDFF3ED9CBF9B5878E073BEBFC3FFFFFB9C73E098CB72027CC49143671545E2C1D7474A2B3A3CDFD7175BCF41E10152D5C9C8CEAC6B319CA12E9EC475BD44E0F3AF13FE97EA6C7E1905A6ADBBA83AC84FA2381A6133D9A430D5AF63B42590BC263D427A7891609A81D4E31B226147DB18AC37FBFA2ECEDC2083B9414E612943E183F54CEA6A43580F4FC27A79960869B6739B1DCAF248ABB95146F635CAC9FE460518E68732C260B5A1B900D1DD93D8DE2720A28F4704F5045FAEB3B2038427059B0E342971F09112DE3CFDAC1083DFDF81FC5EC1F2DC383E3B4760795D8FA87E9E2260077530FC774AA5C927A2AC45CD2A147BA87861167B5C0D47B0705325B2DC528115EAC919E5114B1D318C8F022437DA3A8CB58A89E2D61452D29A8292D6547C9919C572CB192CDE4ADD441ADC0DC7F0668160F72741249E6654BB9DB3B4A7C3D29E2662AC3C4B5C535358BAADC662A51A4B0C5A8BD09ADD4736208824D2649475AA61E94C27871EE742B36F046B2E2796AA3422AE2A2D4D2F1AB87E38A01CE4A118E04912CDA4011EA61A2577F8A916862BB548CB9DC487FE5F58BE5F0A7775265C9B586D3F8F513741EA9020A21AE489FCD5B709DD85F88ED2A622680AC7A1CE9B42D17127DCD30EFCECB808F79D3D22AB4DA7E05E70A2784C807A9847C6B080F4219E445FADB30547064A0DE79E40A39F4646FE34C9C89F4271F92CEC637F440FBB73AF8BA08C5B836E8427BA1181012DCD6DBAF5F71C2BBB6BD51A9CF807BD83AE2934D579CC3BEDDD83ED8398C46AF1FDB037E41F102A51657573BA821992699A45A669063AE30CF311961ABD9368F48E0D94DAB71CEB61BDDEC1D6F1F27BD6ACC23930328DB31E17F379A0AE387AD6FF7BBD0E96A1923C539CA2C696BED73E916D9EA7AE79929AFD9E4B48B6750406C54937FFCBEABF1F320687" />
+					<Bitmap Name="Aliases.chrome2.pageMagayaQaDfp" Data="61717A69700000000100000036040000780173F235636100033320A901C40250CCC8A000640101541EC2A10DC92EC421A516ABDE61D7EF707EC7CD1B2F7CCEFDFC65BFFEEA358DC2CE2E0E7119197CB64ADA4A45B92C75FBE4B1CEEB3F08F79EE9FB3FF3E9BFFFDE1721D8E3C4A7CFD23EB1B1D8CC90B2938AF258EBF50FA617447BAEF3FE7FFAD5B5FFD1571166785FF8FB4FDA37360ED90C909B5D96B97D46D79BBE27F37FF7999EFFBBDEFE85BB01E4168F139FBF7088CBCAC2CC508B516F47D69BBA3BEDFFFDC7A7FEFF3C38EFFFCFFD73FEFF79F7F47FF16D243700CDD02CEAEE86E9B7EEB7BD04D3EFB9DEFBFF8367E7FF7FED0FFCFFA5D5098CBFF6F8FEBFF3EC198A1BEC375EBB0ED3EFB6C2E31B4C7FCF99DEFFBF4EAC86EB8599F1F3D0C2FF49D7116EF03AF7EB374CBFEB7277B0FEC04DC1FF4F5F7DF5FFD7990D18FA7F1D5DF63FEE1A42BFE7D99FBF60FAADFB6C2E80EC5F7163D5FFC4C477FF8FEE7BFBFFDBF438B8195FA744FE3FFFE21D8AFBEDD65DBE02D3AF1AA1D698B433F9FFBA8D9FFE5B5ABEFAEFEEFEFAFFFE9DEFFEFF38BFE3FFEF0BDBFEFFFBFEF9FFBE77FFFEAF7B85C0FE654DCD30FD6C7C6CA21B4EEF7AE3EDFD06AC1F6406083B38BCFEEFE9F906037B783CFDCEC3A3A004D30FA2151583C22D2D5FFE83E9C5478B8BC7A622EB85B145454363CDCCEE7FC6A5D7CCECC11731B1C844987A6C341B9B84949C5C759BBEFE814BE6E68FBE81B0BEFEC14B727235ED6C6C92D2D8F4502206005B5EADC2" />
+					<Bitmap Name="Aliases.ExpExpl" Data="61717A6970000000010000003604000078018D924B4C53411486415D48C4C4881B58B940A070514083A8AC4C0C318A0B25C647A23186F88846961A162E5C689005CA5B81162B2C108D3620414B8C502845A1F796508442A982A5BC52B1B7404BCBEF99692B8F8D4EF2CDE33FE79F9973EF1CCD4EDF12C65B3AF509C48E20E161BB69462D180F2C027D6444F8CE6BA7A20ADF3FDE33AB2B53783BFF01CB61B9B9D9510501EFAE027D85C2232A93B1CA5E88AA0D2869BD268779724F463D6C2A88B5AFD54596A7DA0769034CE331BE87C0F7D23C8A9DE82855C821BF497D10526D2A7953F8D85F9F89FEBACC759AA9EE306947B8D65EA29075E49754A918EF7A00E7D8470C341CE37B5B9A2F419E32C2E5E8C5B0E61CD7CC0D59981FD7C13D33004BCB557414C7913F5E1E6EBA08DFD23C3CF224CC8DC76152A7C3696D45A8CD59DEC1F4E200065F67C3EB9E025656606DCB4347499CDC591A27DB3EDFE3A91E971DE6575918A3987F7981D27C1C9FC785D10FD731D878629D5F47DECEB278F97B7B7ED0FF1343745797DDC0D74E6B0B7ED9DAF87CFE473B8F7964C7DFF399B78BB005FD4BBF27E090AAB1E25FC6F2E21C2C9AF31869BECC6BF3FB3C983456F21A43F7675E7DF9AADFE775C3BB30C7CF9B31D7C3549B46ECC7ECD01BAE79DD33F079595D7E5EBFBE3C619D9F2751C7BEC3B7B7399094F40E8821CD05AA7B3A14E6DFC4AACD83BE82FC150A79A4F5065C5312FD2F62BA1F133D85F486D83B0820AAD260EF2DE63196E3721831DC7C05DD950AD9F05C908DECBDA83302BC3C0491EE2DD2B922E91C36A73A248A496A46068CCA14F490F7D3D3C4F1BE1A017D3549041B93D1476FD8B801A6F118CF617902B44589B63B6763EE7FAD1216B9B79AF4106C9FB584743692F74B95B070EB4C747E64C4E6EDB77362F2B54F92AC866782F37FD016258DDE3C1D7D77DBD64D917F00E323DCD8" />
+					<Bitmap Name="Aliases.ExpExpl.dlg" Data="61717A697000000001000000360400007801A5934F4AC34014C6BF8007F008BAF304D90A2E856E3C831BCFE04DDC74E9C2A5221EC185A0A0146AB1AD586DEDBF34CD34994C2689EFA50D741C0AA94EF8260993DFCBCBF74D8E6AEE0E8AE1D27C40DA5DC9C11E5DD158AD2F6F96738EFF1FA7C72EB6D1D9C961F17CF9E687DB4B24C1146A3E86F24750B321626F8078DA473CF982FCEE22FA6C217C6F40BC3DC16F3DDABCF030A83B86C2C605EAED059CEBC850D079B1F9856FB05C6B132F3E9A16AFC3A0321FF53B361F89CABC1CF52C3E9561D12FF75C4A8D9FF1EA2D0A0FD88752927CE5BCD6FD4FE3085777BEA1765710DF23EEDE90A46C2C5E49ECD78686B81EB3B839371453BEBFF94C2B83E55A1B79DA23169FEACABC9A4F2C3ECFD2EA7C30B3F99CDCA41A19F591E90459A2909227EC2B67A3295FDE239AF659226C9EFF816DB4FEFD658E7F39FF00D1F3F683" />
+					<Bitmap Name="Aliases.ExpExpl.mainWindow" Data="61717A697000000001000000360400007801A5934F4AC34014C6BF8007F008BAF304D90A2E856E3C831BCFE04DDC74E9C2A5221EC185A0A0146AB1AD586DEDBF34CD34994C2689EFA50D741C0AA94EF8260993DFCBCBF74D8E6AEE0E8AE1D27C40DA5DC9C11E5DD158AD2F6F96738EFF1FA7C72EB6D1D9C961F17CF9E687DB4B24C1146A3E86F24750B321626F8078DA473CF982FCEE22FA6C217C6F40BC3DC16F3DDABCF030A83B86C2C605EAED059CEBC850D079B1F9856FB05C6B132F3E9A16AFC3A0321FF53B361F89CABC1CF52C3E9561D12FF75C4A8D9FF1EA2D0A0FD88752927CE5BCD6FD4FE3085777BEA1765710DF23EEDE90A46C2C5E49ECD78686B81EB3B839371453BEBFF94C2B83E55A1B79DA23169FEACABC9A4F2C3ECFD2EA7C30B3F99CDCA41A19F591E90459A2909227EC2B67A3295FDE239AF659226C9EFF816DB4FEFD658E7F39FF00D1F3F683" />
+					<Bitmap Name="Aliases.ExpExpl.mainWindow.completePanel" Data="61717A697000000001000000360400007801A5934B4EC33010867FA41E8023B0E404DD22B144B0E10C6CB81057E0069C0221A44A08A9028A2A28A53469D2BCECBC98F123323115141C8DEDC8F93FCFFC760E4F8603A836A47E9F62D7C40EF66846CDACEB17DDB7F8FF737634C436717E7AA0BEB73B5F5F5DA25C0790F10764B4805CBD43846F10C10C62F98A623E41FE3246F67C87E4E116C9F8C6D7272182C90817C70315CC501CC3108BA9664CEF913E8D7C7D1A295D9787D133CFE6C173950731B85E37FF2A5B6B7DB2A25A4294F1B2CBC5E664C762F6E8EBF3C4EC4F5AD63B0CEDC75CADB31F5C4B7FFFBAC8BED45F3A79C8887CB57E185F3DBDC8C18C8AF2E05A2AF2A3E4205F3B4F9CB3F1F4B240CD0C911127250E31B27823A3AF6F2A89A614A815E76786A7AF2BFC8EA1CFA6AF6F9B1ACD4686E389F1D5D3B7741B3A4649B54853CB37BE12A3AFE77F609B70F5F61EFE65FC0455A34160" />
+					<Bitmap Name="Aliases.ExpExpl.wndAfx2" Data="61717A697000000001000000360400007801A5934B4EC33010867FA41E8023B0E404DD22B144B0E10C6CB81057E0069C0221A44A08A9028A2A28A53469D2BCECBC98F123323115141C8DEDC8F93FCFFC760E4F8603A836A47E9F62D7C40EF66846CDACEB17DDB7F8FF737634C436717E7AA0BEB73B5F5F5DA25C0790F10764B4805CBD43846F10C10C62F98A623E41FE3246F67C87E4E116C9F8C6D7272182C90817C70315CC501CC3108BA9664CEF913E8D7C7D1A295D9787D133CFE6C173950731B85E37FF2A5B6B7DB2A25A4294F1B2CBC5E664C762F6E8EBF3C4EC4F5AD63B0CEDC75CADB31F5C4B7FFFBAC8BED45F3A79C8887CB57E185F3DBDC8C18C8AF2E05A2AF2A3E4205F3B4F9CB3F1F4B240CD0C911127250E31B27823A3AF6F2A89A614A815E76786A7AF2BFC8EA1CFA6AF6F9B1ACD4686E389F1D5D3B7741B3A4649B54853CB37BE12A3AFE77F609B70F5F61EFE65FC0455A34160" />
+					<Bitmap Name="Aliases.ExpExpl.wndAfx2.AfxMDIFrame140u" Data="61717A697000000001000000360400007801A5934B4EC33010867FA41E8023B0E404DD22B144B0E10C6CB81057E0069C0221A44A08A9028A2A28A53469D2BCECBC98F123323115141C8DEDC8F93FCFFC760E4F8603A836A47E9F62D7C40EF66846CDACEB17DDB7F8FF737634C436717E7AA0BEB73B5F5F5DA25C0790F10764B4805CBD43846F10C10C62F98A623E41FE3246F67C87E4E116C9F8C6D7272182C90817C70315CC501CC3108BA9664CEF913E8D7C7D1A295D9787D133CFE6C173950731B85E37FF2A5B6B7DB2A25A4294F1B2CBC5E664C762F6E8EBF3C4EC4F5AD63B0CEDC75CADB31F5C4B7FFFBAC8BED45F3A79C8887CB57E185F3DBDC8C18C8AF2E05A2AF2A3E4205F3B4F9CB3F1F4B240CD0C911127250E31B27823A3AF6F2A89A614A815E76786A7AF2BFC8EA1CFA6AF6F9B1ACD4686E389F1D5D3B7741B3A4649B54853CB37BE12A3AFE77F609B70F5F61EFE65FC0455A34160" />
+				</NodeBitmaps>
+			</Extenders>
+		</Data>
+		<Children>
+			<Operation Type="{E8089E1C-53BC-4D9C-A69D-7CDDB49422CB}">
+				<Data Description="Runs a keyword test." TestName="CleanRegistryMagaya" />
+			</Operation>
+			<Operation Type="{E8089E1C-53BC-4D9C-A69D-7CDDB49422CB}">
+				<Data Description="Runs a keyword test." TestName="loginPortal38448">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="username" DefVarType="8" DefValueType="6" DefValueValue="aylinannia_prod" VarType="8" ValueType="6" ValueValue="aylinannia_prod" />
+					</Parameters>
+				</Data>
+			</Operation>
+			<Operation Type="{E8089E1C-53BC-4D9C-A69D-7CDDB49422CB}">
+				<Data Description="Runs a keyword test." TestName="PortalCreateQuotationFirst">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="origin" DefVarType="8" DefValueType="6" DefValueValue="los angeles" VarType="8" ValueType="6" ValueValue="los angeles" />
+						<Parameter Name="destination" DefVarType="8" DefValueType="6" DefValueValue="shanghai" VarType="8" ValueType="6" ValueValue="shanghai" />
+					</Parameters>
+				</Data>
+			</Operation>
+			<Operation Type="{E8089E1C-53BC-4D9C-A69D-7CDDB49422CB}">
+				<Data Description="Runs a keyword test." TestName="SelectOceanFCLPortal" />
+			</Operation>
+			<Operation Type="{E8089E1C-53BC-4D9C-A69D-7CDDB49422CB}">
+				<Data Description="Runs a keyword test." TestName="OriginDestinationPortal">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="origin" DefVarType="8" DefValueType="6" DefValueValue="Los angeles" ParamType="{83D6F80C-4323-4034-92E3-FD2A65D2E6FC}" VariableType="4" VariableName="origin" />
+						<Parameter Name="destination" DefVarType="8" DefValueType="6" DefValueValue="Shanghai" ParamType="{83D6F80C-4323-4034-92E3-FD2A65D2E6FC}" VariableType="4" VariableName="destination" />
+					</Parameters>
+				</Data>
+			</Operation>
+			<Operation Type="{E8089E1C-53BC-4D9C-A69D-7CDDB49422CB}">
+				<Data Description="Runs a keyword test." TestName="CreateQuotePortal" />
+			</Operation>
+			<Operation Type="{E8089E1C-53BC-4D9C-A69D-7CDDB49422CB}">
+				<Data Description="Runs a keyword test." TestName="FullOptionsPortal" />
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Clicks the &apos;%n&apos; control." Action="Click">
+					<CommonData WaitTimeout="140000" />
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="ClientX" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
+						<Parameter Name="ClientY" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
+						<Parameter Name="Shift" DefVarType="12" DefValueType="1" DefValueValue="0" VarType="3" ValueType="1" ValueValue="0">
+							<Values IsEnum="True">
+								<Value Type="1" Value="0" Text="skNoShift" />
+								<Value Type="1" Value="8192" Text="skShift" />
+								<Value Type="1" Value="32768" Text="skAlt" />
+								<Value Type="1" Value="16384" Text="skCtrl" />
+							</Values>
+						</Parameter>
+					</Parameters>
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.chrome2.pageMagayaQaDfp.textnodeQuoteID;" />
+				</Data>
+			</Operation>
+			<Operation Type="{6F20B0D8-E0CF-47FF-A68B-3E3672DD0CB0}">
+				<Data VariableType="2" VariableName="quote_id">
+					<CommonData WaitTimeout="100000" />
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="NewValue" DefVarType="0" ParamType="{5EF65F78-D6E6-4C84-90CA-F464F32D7A1D}" Expression="Aliases.chrome2.pageMagayaQaDfp.textnodeQuoteID.contentText" />
+					</Parameters>
+				</Data>
+			</Operation>
+			<Operation Type="{BFB3C418-1303-46B3-9B24-3624AB5EB529}">
+				<Data Description="Posts an information message to the test log." MessageType="0">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="MessageText" DefVarType="12" ParamType="{83D6F80C-4323-4034-92E3-FD2A65D2E6FC}" VariableType="2" VariableName="quote_id" />
+						<Parameter Name="Details" DefVarType="12" VarType="8" ValueType="6" ValueValue="" />
+						<Parameter Name="Priority" DefVarType="12" DefValueType="1" DefValueValue="300" VarType="3" ValueType="1" ValueValue="300">
+							<Values IsEnum="True">
+								<Value Type="1" Value="100" Text="pmLowest" />
+								<Value Type="1" Value="200" Text="pmLower" />
+								<Value Type="1" Value="300" Text="pmNormal" />
+								<Value Type="1" Value="400" Text="pmHigher" />
+								<Value Type="1" Value="500" Text="pmHighest" />
+							</Values>
+						</Parameter>
+						<Parameter Name="Attrib" DefVarType="12" VarType="12" ValueType="0" ValueValue="0" />
+						<Parameter Name="Picture" DefVarType="12" VarType="12" ValueType="0" ValueValue="0" />
+						<Parameter Name="FolderId" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
+					</Parameters>
+				</Data>
+			</Operation>
+			<Operation Type="{E8089E1C-53BC-4D9C-A69D-7CDDB49422CB}">
+				<Data Description="Runs a keyword test." TestName="CreateShipmentCompleteData" />
+			</Operation>
+			<Operation Type="{E8089E1C-53BC-4D9C-A69D-7CDDB49422CB}">
+				<Data Description="Runs a keyword test." TestName="AddAttachmentDFPShipment">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="attachmentName" DefVarType="8" DefValueType="6" DefValueValue="test.jpg" ParamType="{83D6F80C-4323-4034-92E3-FD2A65D2E6FC}" VariableType="4" VariableName="attachmentName" />
+					</Parameters>
+				</Data>
+			</Operation>
+			<Operation Type="{6A1B4CEE-4FB8-46E2-BFBD-403C84342301}">
+				<Data Description="Delays the test execution for the specified time period.">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="ms" DefVarType="3" VarType="3" ValueType="1" ValueValue="300000" />
+						<Parameter Name="Str" DefVarType="8" DefValueType="6" DefValueValue="" VarType="8" ValueType="6" ValueValue="" />
+					</Parameters>
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Clicks the &apos;%n&apos; object." Action="Click">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="ClientX" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="99" />
+						<Parameter Name="ClientY" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="73" />
+						<Parameter Name="Shift" DefVarType="12" DefValueType="1" DefValueValue="0" VarType="3" ValueType="1" ValueValue="0">
+							<Values IsEnum="True">
+								<Value Type="1" Value="0" Text="skNoShift" />
+								<Value Type="1" Value="8192" Text="skShift" />
+								<Value Type="1" Value="32768" Text="skAlt" />
+								<Value Type="1" Value="16384" Text="skCtrl" />
+							</Values>
+						</Parameter>
+					</Parameters>
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.BrowserWindow;" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Maximizes the specified Window object." Action="Maximize">
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.BrowserWindow;" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Clicks the &apos;%n&apos; control." Action="Click">
+					<CommonData WaitTimeout="50000" />
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="ClientX" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
+						<Parameter Name="ClientY" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
+						<Parameter Name="Shift" DefVarType="12" DefValueType="1" DefValueValue="0" VarType="3" ValueType="1" ValueValue="0">
+							<Values IsEnum="True">
+								<Value Type="1" Value="0" Text="skNoShift" />
+								<Value Type="1" Value="8192" Text="skShift" />
+								<Value Type="1" Value="32768" Text="skAlt" />
+								<Value Type="1" Value="16384" Text="skCtrl" />
+							</Values>
+						</Parameter>
+					</Parameters>
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.pageMagaya8.sectionMyPortal.textnodeShipment;" />
+				</Data>
+			</Operation>
+			<Operation Type="{6F20B0D8-E0CF-47FF-A68B-3E3672DD0CB0}">
+				<Data VariableType="2" VariableName="shipmentID">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="NewValue" DefVarType="0" ParamType="{5EF65F78-D6E6-4C84-90CA-F464F32D7A1D}" Expression="Aliases.browser.pageMagaya8.sectionMyPortal.textnodeShipment.contentText" />
+					</Parameters>
+				</Data>
+			</Operation>
+			<Operation Type="{BFB3C418-1303-46B3-9B24-3624AB5EB529}">
+				<Data Description="Posts an information message to the test log." MessageType="0">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="MessageText" DefVarType="12" ParamType="{83D6F80C-4323-4034-92E3-FD2A65D2E6FC}" VariableType="2" VariableName="shipmentID" />
+						<Parameter Name="Details" DefVarType="12" VarType="8" ValueType="6" ValueValue="" />
+						<Parameter Name="Priority" DefVarType="12" DefValueType="1" DefValueValue="300" VarType="3" ValueType="1" ValueValue="300">
+							<Values IsEnum="True">
+								<Value Type="1" Value="100" Text="pmLowest" />
+								<Value Type="1" Value="200" Text="pmLower" />
+								<Value Type="1" Value="300" Text="pmNormal" />
+								<Value Type="1" Value="400" Text="pmHigher" />
+								<Value Type="1" Value="500" Text="pmHighest" />
+							</Values>
+						</Parameter>
+						<Parameter Name="Attrib" DefVarType="12" VarType="12" ValueType="0" ValueValue="0" />
+						<Parameter Name="Picture" DefVarType="12" VarType="12" ValueType="0" ValueValue="0" />
+						<Parameter Name="FolderId" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
+					</Parameters>
+				</Data>
+			</Operation>
+			<Operation Type="{6F20B0D8-E0CF-47FF-A68B-3E3672DD0CB0}">
+				<Data VariableType="2" VariableName="shipmentName">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="NewValue" DefVarType="0" ParamType="{2B146992-A675-4CF3-9B71-7EE4A1CA11B2}" Expression="Project.Variables.shipmentID.split(&apos;|&apos;)[1]" />
+					</Parameters>
+				</Data>
+			</Operation>
+			<Operation Type="{BFB3C418-1303-46B3-9B24-3624AB5EB529}">
+				<Data Description="Posts an information message to the test log." MessageType="0">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="MessageText" DefVarType="12" ParamType="{83D6F80C-4323-4034-92E3-FD2A65D2E6FC}" VariableType="2" VariableName="shipmentName" />
+						<Parameter Name="Details" DefVarType="12" VarType="8" ValueType="6" ValueValue="" />
+						<Parameter Name="Priority" DefVarType="12" DefValueType="1" DefValueValue="300" VarType="3" ValueType="1" ValueValue="300">
+							<Values IsEnum="True">
+								<Value Type="1" Value="100" Text="pmLowest" />
+								<Value Type="1" Value="200" Text="pmLower" />
+								<Value Type="1" Value="300" Text="pmNormal" />
+								<Value Type="1" Value="400" Text="pmHigher" />
+								<Value Type="1" Value="500" Text="pmHighest" />
+							</Values>
+						</Parameter>
+						<Parameter Name="Attrib" DefVarType="12" VarType="12" ValueType="0" ValueValue="0" />
+						<Parameter Name="Picture" DefVarType="12" VarType="12" ValueType="0" ValueValue="0" />
+						<Parameter Name="FolderId" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
+					</Parameters>
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Closes the &apos;%n&apos; window." Action="Close">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="WaitTimeout" DefVarType="3" DefValueType="1" DefValueValue="2000" VarType="3" ValueType="1" ValueValue="2000" />
+					</Parameters>
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.BrowserWindow;" />
+				</Data>
+			</Operation>
+			<Operation Type="{E8089E1C-53BC-4D9C-A69D-7CDDB49422CB}">
+				<Data Description="Runs a keyword test." TestName="LoginMagaya" />
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Activates the &apos;%n&apos; window." Action="Activate">
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.ExpExpl.mainWindow;" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Expands the %p1 item of the &apos;%n&apos; tree." Action="ExpandItem">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="Item" DefVarType="12" VarType="8" ValueType="6" ValueValue="|Bookings" />
+						<Parameter Name="Expand" DefVarType="11" DefValueType="7" DefValueValue="True" VarType="11" ValueType="7" ValueValue="True" />
+					</Parameters>
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.ExpExpl.mainWindow.completePanel.TreeView;" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Clicks the %p1 item of the &apos;%n&apos; tree." Action="ClickItem">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="Item" DefVarType="12" VarType="8" ValueType="6" ValueValue="|Bookings|Booking List" />
+						<Parameter Name="Shift" DefVarType="12" DefValueType="1" DefValueValue="0" VarType="3" ValueType="1" ValueValue="0">
+							<Values IsEnum="True">
+								<Value Type="1" Value="0" Text="skNoShift" />
+								<Value Type="1" Value="8192" Text="skShift" />
+								<Value Type="1" Value="32768" Text="skAlt" />
+								<Value Type="1" Value="16384" Text="skCtrl" />
+							</Values>
+						</Parameter>
+					</Parameters>
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.ExpExpl.mainWindow.completePanel.TreeView;" />
+				</Data>
+			</Operation>
+			<Operation Type="{E8089E1C-53BC-4D9C-A69D-7CDDB49422CB}">
+				<Data Description="Runs a keyword test." TestName="Unfilter" />
+			</Operation>
+			<Operation Type="{E8089E1C-53BC-4D9C-A69D-7CDDB49422CB}">
+				<Data Description="Runs a keyword test." TestName="AdvancedFilter" />
+			</Operation>
+			<Operation Type="{E8089E1C-53BC-4D9C-A69D-7CDDB49422CB}">
+				<Data Description="Runs a keyword test." TestName="AdvancedFilterBy">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="FilterBy" DefVarType="8" DefValueType="6" DefValueValue="" VarType="8" ValueType="6" ValueValue="Name" />
+						<Parameter Name="Value" DefVarType="8" DefValueType="6" DefValueValue="" ParamType="{83D6F80C-4323-4034-92E3-FD2A65D2E6FC}" VariableType="2" VariableName="shipmentName" />
+						<Parameter Name="Operator" DefVarType="8" DefValueType="6" DefValueValue="" VarType="8" ValueType="6" ValueValue="Equals" />
+					</Parameters>
+				</Data>
+			</Operation>
+			<Operation Type="{6A1B4CEE-4FB8-46E2-BFBD-403C84342301}">
+				<Data Description="Delays the test execution for the specified time period.">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="ms" DefVarType="3" VarType="3" ValueType="1" ValueValue="500" />
+						<Parameter Name="Str" DefVarType="8" DefValueType="6" DefValueValue="" VarType="8" ValueType="6" ValueValue="" />
+					</Parameters>
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Double-clicks the &apos;%n&apos; object." Action="DblClick">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="ClientX" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="471" />
+						<Parameter Name="ClientY" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="12" />
+						<Parameter Name="Shift" DefVarType="12" DefValueType="1" DefValueValue="0" VarType="3" ValueType="1" ValueValue="0">
+							<Values IsEnum="True">
+								<Value Type="1" Value="0" Text="skNoShift" />
+								<Value Type="1" Value="8192" Text="skShift" />
+								<Value Type="1" Value="32768" Text="skAlt" />
+								<Value Type="1" Value="16384" Text="skCtrl" />
+							</Values>
+						</Parameter>
+					</Parameters>
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.ExpExpl.mainWindow.mainFrame.page327702.ListView.listitemFirst;" />
+				</Data>
+			</Operation>
+			<Operation Type="{E8089E1C-53BC-4D9C-A69D-7CDDB49422CB}">
+				<Data Description="Runs a keyword test." TestName="VerifyBookingInfo" />
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Selects the %p1 tab of the &apos;%n&apos; tab control." Action="ClickTab">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="Item" DefVarType="12" VarType="8" ValueType="6" ValueValue="Attachments" />
+					</Parameters>
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.ExpExpl.dlg.tbcAccountingTransaction;" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Clicks the &apos;%n&apos; object." Action="Click">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="ClientX" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="24" />
+						<Parameter Name="ClientY" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="5" />
+						<Parameter Name="Shift" DefVarType="12" DefValueType="1" DefValueValue="0" VarType="3" ValueType="1" ValueValue="0">
+							<Values IsEnum="True">
+								<Value Type="1" Value="0" Text="skNoShift" />
+								<Value Type="1" Value="8192" Text="skShift" />
+								<Value Type="1" Value="32768" Text="skAlt" />
+								<Value Type="1" Value="16384" Text="skCtrl" />
+							</Values>
+						</Parameter>
+					</Parameters>
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.ExpExpl.dlg.page327702.ListView.listitemTest;" />
+				</Data>
+			</Operation>
+			<Operation Type="{2F0A05A2-4ECD-47CE-A12B-9843A308F2DC}">
+				<Data Description="Checks whether the %p2 property of the %p1 object %p3 %p4.">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="Object" DefVarType="12" ParamType="{FC0DF733-E97F-46DD-8307-EA4DFF891298}" Expression="Aliases.ExpExpl.dlg.page327702.ListView.listitemTest" />
+						<Parameter Name="Property" DefVarType="8" VarType="8" ValueType="6" ValueValue="Caption" />
+						<Parameter Name="Condition" DefVarType="3" VarType="3" ValueType="1" ValueValue="0" />
+						<Parameter Name="Value" DefVarType="12" VarType="8" ValueType="6" ValueValue="test" />
+						<Parameter Name="CaseSensitive" DefVarType="11" DefValueType="7" DefValueValue="True" VarType="11" ValueType="7" ValueValue="True" />
+					</Parameters>
+				</Data>
+			</Operation>
+			<Operation Type="{BFB3C418-1303-46B3-9B24-3624AB5EB529}">
+				<Data Description="Posts an information message to the test log." MessageType="0">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="MessageText" DefVarType="12" VarType="8" ValueType="6" ValueValue="Attachment from DFP Exists in Magaya!" />
+						<Parameter Name="Details" DefVarType="12" VarType="8" ValueType="6" ValueValue="" />
+						<Parameter Name="Priority" DefVarType="12" DefValueType="1" DefValueValue="300" VarType="3" ValueType="1" ValueValue="300">
+							<Values IsEnum="True">
+								<Value Type="1" Value="100" Text="pmLowest" />
+								<Value Type="1" Value="200" Text="pmLower" />
+								<Value Type="1" Value="300" Text="pmNormal" />
+								<Value Type="1" Value="400" Text="pmHigher" />
+								<Value Type="1" Value="500" Text="pmHighest" />
+							</Values>
+						</Parameter>
+						<Parameter Name="Attrib" DefVarType="12" VarType="12" ValueType="0" ValueValue="0" />
+						<Parameter Name="Picture" DefVarType="12" VarType="12" ValueType="0" ValueValue="0" />
+						<Parameter Name="FolderId" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
+					</Parameters>
+				</Data>
+			</Operation>
+			<Operation Type="{E8089E1C-53BC-4D9C-A69D-7CDDB49422CB}">
+				<Data Description="Runs a keyword test." TestName="UpdateBookingMagaya" />
+			</Operation>
+			<Operation Type="{BFB3C418-1303-46B3-9B24-3624AB5EB529}">
+				<Data Description="Posts an information message to the test log." MessageType="0">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="MessageText" DefVarType="12" VarType="8" ValueType="6" ValueValue="All attachments were added in Magaya: Csv,Pdf, Png, Jpeg , Msg, doc(x), xls(x), Xml, Json and Txt!!!!!!!!!!!!!!!!!!!!!!!!!" />
+						<Parameter Name="Details" DefVarType="12" VarType="8" ValueType="6" ValueValue="" />
+						<Parameter Name="Priority" DefVarType="12" DefValueType="1" DefValueValue="300" VarType="3" ValueType="1" ValueValue="300">
+							<Values IsEnum="True">
+								<Value Type="1" Value="100" Text="pmLowest" />
+								<Value Type="1" Value="200" Text="pmLower" />
+								<Value Type="1" Value="300" Text="pmNormal" />
+								<Value Type="1" Value="400" Text="pmHigher" />
+								<Value Type="1" Value="500" Text="pmHighest" />
+							</Values>
+						</Parameter>
+						<Parameter Name="Attrib" DefVarType="12" VarType="12" ValueType="0" ValueValue="0" />
+						<Parameter Name="Picture" DefVarType="12" VarType="12" ValueType="0" ValueValue="0" />
+						<Parameter Name="FolderId" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
+					</Parameters>
+				</Data>
+			</Operation>
+			<Operation Type="{6A1B4CEE-4FB8-46E2-BFBD-403C84342301}">
+				<Data Description="Delays the test execution for the specified time period.">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="ms" DefVarType="3" VarType="3" ValueType="1" ValueValue="300000" />
+						<Parameter Name="Str" DefVarType="8" DefValueType="6" DefValueValue="" VarType="8" ValueType="6" ValueValue="" />
+					</Parameters>
+				</Data>
+			</Operation>
+			<Operation Type="{E8089E1C-53BC-4D9C-A69D-7CDDB49422CB}">
+				<Data Description="Runs a keyword test." TestName="LogoutMagaya" />
+			</Operation>
+			<Operation Type="{E8089E1C-53BC-4D9C-A69D-7CDDB49422CB}">
+				<Data Description="Runs a keyword test." TestName="loginPortal38448">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="username" DefVarType="8" DefValueType="6" DefValueValue="aylinannia_prod" VarType="8" ValueType="6" ValueValue="aylinannia_prod" />
+					</Parameters>
+				</Data>
+			</Operation>
+			<Operation Type="{E8089E1C-53BC-4D9C-A69D-7CDDB49422CB}">
+				<Data Description="Runs a keyword test." TestName="SearchShipment">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="shipmentRef" DefVarType="8" DefValueType="6" DefValueValue="" ParamType="{2B146992-A675-4CF3-9B71-7EE4A1CA11B2}" Expression="Project.Variables.shipmentName + &quot;UPDATED&quot;" />
+					</Parameters>
+				</Data>
+			</Operation>
+			<Operation Type="{E8089E1C-53BC-4D9C-A69D-7CDDB49422CB}">
+				<Data Description="Runs a keyword test." TestName="VerifyUpdatedShipment" />
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Closes the &apos;%n&apos; window." Action="Close">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="WaitTimeout" DefVarType="3" DefValueType="1" DefValueValue="2000" VarType="3" ValueType="1" ValueValue="2000" />
+					</Parameters>
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.BrowserWindow;" />
+				</Data>
+			</Operation>
+		</Children>
+	</TestData>
+	<Variables Version="4" Key="{53682FCE-6B2A-4A42-82BB-F592D99A0A39}">
+		<Items>
+			<Variable Name="origin" Type="String" Local="False">
+				<DefValue StrValue="Los Angeles" />
+			</Variable>
+			<Variable Name="destination" Type="String" Local="False">
+				<DefValue StrValue="Shanghai" />
+			</Variable>
+			<Variable Name="attachmentName" Type="String" Local="False">
+				<DefValue StrValue="test.jpg" />
+			</Variable>
+		</Items>
+	</Variables>
+	<Parameters Key="{93487FF2-2A8A-439B-8139-369B5F43CB88}" />
+</Root>

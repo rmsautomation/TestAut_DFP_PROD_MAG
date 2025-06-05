@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{42D2222C-ACA2-405F-8E67-05D5C42EB839}" version="2">
+	<data key="{BCFADF9F-4A85-427B-BB1B-A17D10D90B47}">
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="0" kind="0" dateTime="45741.6863541667" objectName="Aliases.ExpExpl.dlg.page327702.ListView.listitemArriving" objectLeft="26" objectTop="93" objectRight="1106" objectBottom="114" clickPointX="631" clickPointY="104" imageFileName="tcvi500435934242.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="1" kind="0" dateTime="45757.5586805556" objectName="Aliases.ExpExpl.dlg.page327702.ListView.listitemOnHand" objectLeft="26" objectTop="93" objectRight="906" objectBottom="114" clickPointX="157" clickPointY="100" imageFileName="tcvi475328437169240.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="2" kind="0" dateTime="45741.6863773148" objectName="Aliases.ExpExpl.popupContext.menuitemAddCopies" objectLeft="3" objectTop="32" objectRight="328" objectBottom="54" clickPointX="57" clickPointY="46" imageFileName="tcvi500665634244.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="3" kind="0" dateTime="45741.686412037" objectName="Aliases.ExpExpl.dlg.editUsername" objectLeft="155" objectTop="59" objectRight="227" objectBottom="82" clickPointX="-966" clickPointY="-495" imageFileName="tcvi500882834245.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="4" kind="0" dateTime="45741.6864236111" objectName="Aliases.ExpExpl.dlg.btnOK" objectLeft="67" objectTop="109" objectRight="142" objectBottom="132" clickPointX="108" clickPointY="120" imageFileName="tcvi501085934246.png" storageFileName="" needUpdate="False" rectColor="255" />
+	</data>
+</Root>

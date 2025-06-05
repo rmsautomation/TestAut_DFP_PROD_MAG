@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{42D2222C-ACA2-405F-8E67-05D5C42EB839}" version="2">
+	<data key="{ECA8917A-71CC-4012-AD69-6FB6E43E726A}">
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="2" kind="0" dateTime="45667.8963541667" objectName="Aliases.browser.pageYopmailDisposableEmailAddres.formF.textboxLogin" objectLeft="125" objectTop="528" objectRight="467" objectBottom="551" clickPointX="237" clickPointY="534" imageFileName="tcvi10277414062205.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="3" kind="0" dateTime="45667.8963541667" objectName="Aliases.browser.pageYopmailDisposableEmailAddres.formF.textboxLogin" objectLeft="125" objectTop="528" objectRight="467" objectBottom="551" clickPointX="246" clickPointY="538" imageFileName="tcvi10277426562206.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="4" kind="0" dateTime="45667.8963773148" objectName="Aliases.browser.pageYopmailDisposableEmailAddres.formF.textboxLogin" objectLeft="125" objectTop="528" objectRight="467" objectBottom="551" clickPointX="-1" clickPointY="-1" imageFileName="tcvi10277643762207.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="5" kind="0" dateTime="45667.8964467593" objectName="Aliases.browser.pageYopmailDisposableEmailAddres.formF.buttonCheckInboxYopmailCom" objectLeft="467" objectTop="521" objectRight="503" objectBottom="557" clickPointX="483" clickPointY="538" imageFileName="tcvi10278209362208.png" storageFileName="" needUpdate="False" rectColor="255" />
+	</data>
+</Root>

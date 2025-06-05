@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{42D2222C-ACA2-405F-8E67-05D5C42EB839}" version="2">
+	<data key="{BF827A8D-5C87-49BE-930B-1E61F1E31FEC}">
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="0" kind="0" dateTime="45693.8020023148" objectName="Aliases.chrome2.pageMagayaQaDfp.navDashboard.textnodeWarehouse.linkWarehouse.textnodeWarehouse2" objectLeft="48" objectTop="235" objectRight="120" objectBottom="256" clickPointX="102" clickPointY="243" imageFileName="tcvi18505131296480.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="1" kind="0" dateTime="45693.8020138889" objectName="Aliases.chrome2.pageMagayaQaDfp.navDashboard.textnodeCargoDetail.linkInventory" objectLeft="0" objectTop="351" objectRight="219" objectBottom="393" clickPointX="81" clickPointY="369" imageFileName="tcvi18505143796481.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="4" kind="0" dateTime="45693.8021296296" objectName="Aliases.chrome2.pageMagayaQaDfp.sectionMyPortal.formDownload.textboxPartNumber" objectLeft="235" objectTop="243" objectRight="561" objectBottom="280" clickPointX="-1" clickPointY="-1" imageFileName="tcvi18506085996482.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="5" kind="0" dateTime="45693.8026273148" objectName="Aliases.chrome2.pageMagayaQaDfp.buttonSearch2" objectLeft="1756" objectTop="296" objectRight="1831" objectBottom="334" clickPointX="1785" clickPointY="322" imageFileName="tcvi185105203964814.png" storageFileName="" needUpdate="False" rectColor="255" />
+	</data>
+</Root>

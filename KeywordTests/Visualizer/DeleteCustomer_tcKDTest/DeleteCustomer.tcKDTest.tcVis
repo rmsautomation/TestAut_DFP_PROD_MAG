@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{42D2222C-ACA2-405F-8E67-05D5C42EB839}" version="2">
+	<data key="{4E21B600-5FE2-4463-AD41-4777F75C21F8}">
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="7" kind="0" dateTime="45671.0551041667" objectName="Aliases.ExpExpl.dlg.pageGeneral.checkEnableLiveTrackAccess" objectLeft="128" objectTop="275" objectRight="271" objectBottom="291" clickPointX="132" clickPointY="280" imageFileName="tcvi375689625106009.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="10" kind="0" dateTime="45712.9629166667" objectName="Aliases.ExpExpl.mainWindow.mainFrame.page327702.page32770.toolbar.buttonDelete" objectLeft="369" objectTop="140" objectRight="400" objectBottom="170" clickPointX="385" clickPointY="155" imageFileName="tcvi115945312142041.png" storageFileName="" needUpdate="False" rectColor="255" />
+	</data>
+</Root>

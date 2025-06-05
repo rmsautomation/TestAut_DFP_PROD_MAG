@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{B9D9273E-7266-43E0-BF02-97F168593604}" version="15.0">
+	<TestData Description="" Key="{69748593-213C-4591-85D5-D76B032B17C1}" Type="{79147B28-EE20-4294-B773-1D3787FBF37B}">
+		<Data>
+			<Extenders>
+				<NodeBitmaps />
+			</Extenders>
+		</Data>
+		<Children>
+			<Operation Type="{E8089E1C-53BC-4D9C-A69D-7CDDB49422CB}">
+				<Data Description="Runs a keyword test." TestName="AddAttachmentDFPShipment">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="attachmentName" DefVarType="8" DefValueType="6" DefValueValue="test.jpg" VarType="8" ValueType="6" ValueValue="test.jpg" />
+					</Parameters>
+				</Data>
+			</Operation>
+			<Operation Type="{E8089E1C-53BC-4D9C-A69D-7CDDB49422CB}">
+				<Data Description="Runs a keyword test." TestName="AddAttachmentDFPShipment">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="attachmentName" DefVarType="8" DefValueType="6" DefValueValue="test.jpg" VarType="8" ValueType="6" ValueValue="CSVDFP.csv" />
+					</Parameters>
+				</Data>
+			</Operation>
+			<Operation Type="{E8089E1C-53BC-4D9C-A69D-7CDDB49422CB}">
+				<Data Description="Runs a keyword test." TestName="AddAttachmentDFPShipment">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="attachmentName" DefVarType="8" DefValueType="6" DefValueValue="test.jpg" VarType="8" ValueType="6" ValueValue="PDFDFP.pdf" />
+					</Parameters>
+				</Data>
+			</Operation>
+			<Operation Type="{E8089E1C-53BC-4D9C-A69D-7CDDB49422CB}">
+				<Data Description="Runs a keyword test." TestName="AddAttachmentDFPShipment">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="attachmentName" DefVarType="8" DefValueType="6" DefValueValue="test.jpg" VarType="8" ValueType="6" ValueValue="test1.png" />
+					</Parameters>
+				</Data>
+			</Operation>
+			<Operation Type="{E8089E1C-53BC-4D9C-A69D-7CDDB49422CB}">
+				<Data Description="Runs a keyword test." TestName="AddAttachmentDFPShipment">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="attachmentName" DefVarType="8" DefValueType="6" DefValueValue="test.jpg" VarType="8" ValueType="6" ValueValue="MSGDFP.msg" />
+					</Parameters>
+				</Data>
+			</Operation>
+			<Operation Type="{E8089E1C-53BC-4D9C-A69D-7CDDB49422CB}">
+				<Data Description="Runs a keyword test." TestName="AddAttachmentDFPShipment">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="attachmentName" DefVarType="8" DefValueType="6" DefValueValue="test.jpg" VarType="8" ValueType="6" ValueValue="DOCDFP.docx" />
+					</Parameters>
+				</Data>
+			</Operation>
+			<Operation Type="{E8089E1C-53BC-4D9C-A69D-7CDDB49422CB}">
+				<Data Description="Runs a keyword test." TestName="AddAttachmentDFPShipment">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="attachmentName" DefVarType="8" DefValueType="6" DefValueValue="test.jpg" VarType="8" ValueType="6" ValueValue="XLSDFP.xlsx" />
+					</Parameters>
+				</Data>
+			</Operation>
+		</Children>
+	</TestData>
+	<Parameters Key="{69EB7F0B-48EA-4E46-B818-D7F8D8795673}" />
+</Root>
