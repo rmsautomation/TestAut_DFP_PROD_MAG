@@ -18876,6 +18876,21 @@
 													</Property>
 												</Properties>
 											</Child>
+											<Child Name="buttonFind" Key="{09291B29-9B43-4860-9D71-90F6515C14A8}">
+												<Image FileName="-1689970136" Left="472" Top="259" Right="547" Bottom="282" />
+												<TypeInfo Item0="{2E69653D-DE91-48BD-ABCA-C81B9D1229E9}" />
+												<Properties>
+													<Property Name="ObjectType">
+														<Value Value="Button" />
+													</Property>
+													<Property Name="Caption">
+														<Value Value="Find..." />
+													</Property>
+													<Property Name="ObjectGroupIndex">
+														<Value Value="1" Type="0" />
+													</Property>
+												</Properties>
+											</Child>
 										</Children>
 									</Child>
 									<Child Name="tbcAccountingTransaction" Key="{8E0B9DB8-20F6-4640-9618-B6DE55578D37}">
@@ -19202,6 +19217,21 @@
 												</Properties>
 											</Child>
 										</Children>
+									</Child>
+									<Child Name="buttonFind" Key="{B4E4412F-59BC-4EFE-B81A-74F22A1CD781}">
+										<Image FileName="1157815517" Left="86" Top="116" Right="161" Bottom="139" />
+										<TypeInfo Item0="{2E69653D-DE91-48BD-ABCA-C81B9D1229E9}" />
+										<Properties>
+											<Property Name="ObjectType">
+												<Value Value="Button" />
+											</Property>
+											<Property Name="Caption">
+												<Value Value="Find" />
+											</Property>
+											<Property Name="ObjectGroupIndex">
+												<Value Value="1" Type="0" />
+											</Property>
+										</Properties>
 									</Child>
 								</Children>
 							</Child>
@@ -21168,6 +21198,21 @@
 											</Property>
 										</Properties>
 									</Child>
+									<Child Name="menuitemFindByNumber" Key="{993CEF65-6BA5-4013-B104-3C34CD414289}">
+										<Image FileName="-714623594" Left="3" Top="3" Right="182" Bottom="25" />
+										<TypeInfo Item0="{BD91983E-10C5-43AF-834F-060D7F5933D7}" />
+										<Properties>
+											<Property Name="ObjectType">
+												<Value Value="MenuItem" />
+											</Property>
+											<Property Name="Caption">
+												<Value Value="Find By Number..." />
+											</Property>
+											<Property Name="ObjectGroupIndex">
+												<Value Value="1" Type="0" />
+											</Property>
+										</Properties>
+									</Child>
 								</Children>
 							</Child>
 							<Child Name="listIncoTerms" Key="{1E9D8EE0-7FA5-402D-AD06-0EE428C993AD}">
@@ -23026,6 +23071,7 @@
 					<Child Name="editCustomer" Owner="{17844BB3-7DEE-4A2A-8F3F-DEB6CF023D0D}" />
 					<Child Name="check2" Owner="{E5712288-1DF1-4A08-9CDB-60A21689063E}" />
 					<Child Name="RICHEDIT" Owner="{E2AA9D2E-691B-41E7-AB4D-9593844BBD9B}" />
+					<Child Name="buttonFind" Owner="{09291B29-9B43-4860-9D71-90F6515C14A8}" />
 				</Child>
 				<Child Name="tbcAccountingTransaction" Owner="{8E0B9DB8-20F6-4640-9618-B6DE55578D37}">
 					<Child Name="spinbox" Owner="{5AA68BEE-CD37-42C5-AED9-DA3F1B4454BB}">
@@ -23061,6 +23107,7 @@
 				<Child Name="titlebar" Owner="{9B66015C-3101-4F7E-9DAA-807544073242}">
 					<Child Name="buttonClose" Owner="{EA9EFE83-7B54-4C38-89AC-701797C74BA2}" />
 				</Child>
+				<Child Name="buttonFind" Owner="{B4E4412F-59BC-4EFE-B81A-74F22A1CD781}" />
 			</Child>
 			<Child Name="wndCefBrowserWindow" Owner="{A8DDB9A1-DB0D-4E12-BC5B-C4A93FE9B21E}">
 				<Child Name="Chrome_WidgetWin_0" Owner="{AFEE01FD-7B63-4645-8BD5-98D2C0427784}">
@@ -23251,6 +23298,7 @@
 				<Child Name="menuitemHistory" Owner="{D07511E7-B7DB-45B4-B327-996FB191C9CC}" />
 				<Child Name="menuitemCreateShipment" Owner="{9D52591A-3686-4336-BF0A-895ACD13D310}" />
 				<Child Name="menuitemAddCopies" Owner="{CC00DBAC-C71B-45D7-AF29-56ABBB9D7EA8}" />
+				<Child Name="menuitemFindByNumber" Owner="{993CEF65-6BA5-4013-B104-3C34CD414289}" />
 			</Child>
 			<Child Name="listIncoTerms" Owner="{1E9D8EE0-7FA5-402D-AD06-0EE428C993AD}" />
 		</Child>
