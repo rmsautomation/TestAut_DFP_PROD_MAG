@@ -5047,7 +5047,13 @@
 										<TypeInfo Item0="{8A34ED57-033C-4E01-B624-E540D7FA56BB}" />
 										<Selectors>
 											<Selector>
+												<Value Value="xpath=//span[contains(@class, &apos;font-weight-bold&apos;) and contains(normalize-space(.), &apos;HAW&apos;)]" />
+											</Selector>
+											<Selector>
 												<Value Value="//li/div[contains(@class, &apos;badge&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="xpath=//div[contains(@class, &apos;badge-outline-success&apos;) and contains(normalize-space(.), &apos;Booked&apos;)]" />
 											</Selector>
 										</Selectors>
 									</Child>
@@ -16098,6 +16104,113 @@
 											</Selector>
 										</Selectors>
 									</Child>
+									<Child Name="textnodeCargoItems" Key="{4A4D9479-AAC2-4233-A16B-167CFF60B6A7}">
+										<Image FileName="-1551705921" Left="503" Top="387" Right="612" Bottom="411" />
+										<TypeInfo Item0="{D0C17A97-FBCB-484E-B458-261FDAEB6BCB}" />
+										<Selectors>
+											<Selector>
+												<Value Value="//h5[.=&apos;Cargo Items&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="//h5[contains(@class, &apos;font-weight-normal&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//h5" Enabled="False" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="textnode38448" Key="{7AE86946-1B1D-4242-BB95-9FB46D428B2B}">
+										<Image FileName="-1551705921" Left="0" Top="87" Right="1905" Bottom="1733" />
+										<TypeInfo Item0="{D0C17A97-FBCB-484E-B458-261FDAEB6BCB}" />
+										<Selectors>
+											<Selector>
+												<Value Value="//body[contains(., &apos;38448&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//body" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="linkRefresh" Key="{808A77E6-4AFA-4389-8EC3-1DA56262F024}">
+										<Image FileName="1096039088" Left="1137" Top="998" Right="1171" Bottom="1013" />
+										<TypeInfo Item0="{D0C17A97-FBCB-484E-B458-261FDAEB6BCB}" />
+										<Selectors>
+											<Selector>
+												<Value Value="//a[.=&apos;refresh&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="//qwyk-cargo-items-index/qwyk-pagination/p-paginator//a" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="buttonPagePage2" Key="{52215C2D-18EB-44CC-9BA8-157F56AE453D}">
+										<Image FileName="444587125" Left="1305" Top="986" Right="1343" Bottom="1024" />
+										<TypeInfo Item0="{18280DA8-CE42-4455-8E18-30F2047E80F0}" />
+										<Selectors>
+											<Selector>
+												<Value Value="//button[contains(@class, &apos;p-highlight&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//span[2]/button" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="buttonPagePage3" Key="{66DA999F-A6D5-420A-B7C7-CDC9F8EC5D28}">
+										<Image FileName="1186160159" Left="1343" Top="986" Right="1381" Bottom="1024" />
+										<TypeInfo Item0="{18280DA8-CE42-4455-8E18-30F2047E80F0}" />
+										<Selectors>
+											<Selector>
+												<Value Value="//span[2]/button[2]" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="buttonPagePage4" Key="{EC995DE3-4805-43A3-82CF-983940F424A5}">
+										<Image FileName="-1570064793" Left="1380" Top="986" Right="1418" Bottom="1024" />
+										<TypeInfo Item0="{18280DA8-CE42-4455-8E18-30F2047E80F0}" />
+										<Selectors>
+											<Selector>
+												<Value Value="//span[2]/button[3]" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="buttonPagePage5" Key="{69CFB449-BFDD-4773-A187-A8CE5992139C}">
+										<Image FileName="-833762415" Left="1418" Top="986" Right="1456" Bottom="1024" />
+										<TypeInfo Item0="{18280DA8-CE42-4455-8E18-30F2047E80F0}" />
+										<Selectors>
+											<Selector>
+												<Value Value="//span[2]/button[4]" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="textnodeArriving3" Key="{D07AF3AF-18ED-4B58-B95B-5A612B90A960}">
+										<Image FileName="1846983924" Left="479" Top="251" Right="1647" Bottom="364" />
+										<Selectors>
+											<Selector>
+												<Value Value="//qwyk-cargo-items-index/ul/li[6]" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="textnodeQuantity102" Key="{3E371241-29FD-4B28-AFD2-3F34540B878C}">
+										<Image FileName="1846983924" Left="694" Top="298" Right="755" Bottom="312" />
+										<TypeInfo Item0="{D0C17A97-FBCB-484E-B458-261FDAEB6BCB}" />
+										<Selectors>
+											<Selector>
+												<Value Value="//qwyk-detail-card//qwyk-cargo-items-index/ul/li[6]//span[contains(@class, &apos;ng-star-inserted&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//qwyk-detail-card//qwyk-cargo-items-index/ul/li[6]//span" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="buttonNextPage" Key="{D0059D5B-397C-4BA3-8793-2646C73E045C}">
+										<Image FileName="1083606350" Left="1493" Top="986" Right="1531" Bottom="1024" />
+										<TypeInfo Item0="{18280DA8-CE42-4455-8E18-30F2047E80F0}" />
+										<Selectors>
+											<Selector>
+												<Value Value="//button[contains(@class, &apos;p-paginator-next&apos;)]" />
+											</Selector>
+										</Selectors>
+									</Child>
 								</Children>
 							</Child>
 							<Child Name="BrowserWindow" Key="{04F3F450-5526-4092-96D2-21C0884F59D5}">
@@ -22568,6 +22681,9 @@
 						<Child Name="textnodeArriving2" Owner="{707CDBB8-A9EB-4404-873F-85F2FB19AA5F}">
 							<Child Name="panelPoupdatedcomodity" Owner="{7A6976BD-23D2-44E4-A6E6-E265EA75AC48}" />
 						</Child>
+						<Child Name="textnodeArriving3" Owner="{D07AF3AF-18ED-4B58-B95B-5A612B90A960}">
+							<Child Name="textnodeQuantity102" Owner="{3E371241-29FD-4B28-AFD2-3F34540B878C}" />
+						</Child>
 					</Child>
 					<Child Name="panel2ponumber" Owner="{7AAA0410-12D2-4371-98DF-3E236CF6D829}" />
 					<Child Name="panelPronumberupdated" Owner="{9CD43A7A-E7DB-491E-A6C3-F037294E06F5}" />
@@ -22686,6 +22802,13 @@
 					<Child Name="panelMyPortal" Owner="{B6959C25-1CD0-43C6-A091-9148CAFB7EC6}" />
 					<Child Name="page6" Owner="{775BBA3E-C8BA-4067-9A51-829D11196906}" />
 					<Child Name="buttonLastPage" Owner="{88B9CFAC-F293-4617-AB21-7CB0597332B7}" />
+					<Child Name="textnodeCargoItems" Owner="{4A4D9479-AAC2-4233-A16B-167CFF60B6A7}" />
+					<Child Name="linkRefresh" Owner="{808A77E6-4AFA-4389-8EC3-1DA56262F024}" />
+					<Child Name="buttonPagePage2" Owner="{52215C2D-18EB-44CC-9BA8-157F56AE453D}" />
+					<Child Name="buttonPagePage3" Owner="{66DA999F-A6D5-420A-B7C7-CDC9F8EC5D28}" />
+					<Child Name="buttonPagePage4" Owner="{EC995DE3-4805-43A3-82CF-983940F424A5}" />
+					<Child Name="buttonPagePage5" Owner="{69CFB449-BFDD-4773-A187-A8CE5992139C}" />
+					<Child Name="buttonNextPage" Owner="{D0059D5B-397C-4BA3-8793-2646C73E045C}" />
 				</Child>
 				<Child Name="textnodeResults" Owner="{1CF6087C-57FF-4430-B9F1-800D8664F6B3}" />
 				<Child Name="panelRequestADifferentRate" Owner="{F00322FB-BB44-4EBC-A779-77467DCD493F}" />
@@ -22837,6 +22960,7 @@
 				<Child Name="cargoOption_new" Owner="{D605A313-8E7F-400C-8EA2-6F166B57FF3B}" />
 				<Child Name="textnode50" Owner="{11508055-811C-40E7-8094-2BB3D132C1AF}" />
 				<Child Name="linkInvoices2" Owner="{C48AC127-8365-4C7F-A0DD-DEEE79FC19E7}" />
+				<Child Name="textnode38448" Owner="{7AE86946-1B1D-4242-BB95-9FB46D428B2B}" />
 			</Child>
 			<Child Name="BrowserWindow" Owner="{04F3F450-5526-4092-96D2-21C0884F59D5}" />
 			<Child Name="pageMagayaDigitalFreightPortalHu" Owner="{C7ED2FC9-0D1F-40A0-87DF-C64B4F0237DC}">
