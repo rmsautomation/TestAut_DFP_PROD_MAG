@@ -12142,16 +12142,16 @@
 										<TypeInfo Item0="{D0C17A97-FBCB-484E-B458-261FDAEB6BCB}" />
 										<Selectors>
 											<Selector>
-												<Value Value="xpath=//div[contains(text(), &apos;AAUTOMATION&apos;)]" />
+												<Value Value="xpath=//div[contains(text(), &apos;AAUTOMATION12&apos;)]" />
 											</Selector>
 											<Selector>
-												<Value Value="//div[@role=&apos;option&apos;]" />
+												<Value Value="//div[@role=&apos;option&apos;]" Enabled="False" />
 											</Selector>
 											<Selector>
-												<Value Value="//div[contains(@class, &apos;ng-option&apos;)]" />
+												<Value Value="//div[contains(@class, &apos;ng-option&apos;)]" Enabled="False" />
 											</Selector>
 											<Selector>
-												<Value Value="//ng-dropdown-panel[@role=&apos;listbox&apos;]/div/div/div" />
+												<Value Value="//ng-dropdown-panel[@role=&apos;listbox&apos;]/div/div/div" Enabled="False" />
 											</Selector>
 										</Selectors>
 									</Child>
