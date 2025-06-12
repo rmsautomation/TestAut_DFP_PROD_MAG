@@ -200,6 +200,7 @@
 						<child name="VerifyCreatedWR" key="{5152CB30-354C-4538-816B-5C911CEDE435}" path="VerifyCreatedWR.tcKDTest" />
 						<child name="VerifyUpdatedWR" key="{E4D83B61-2390-4391-B762-7DDD06658668}" path="VerifyUpdatedWR.tcKDTest" />
 						<child name="VerifyUploadEnabled" key="{E406FF34-90C6-463C-9780-272A112E017F}" path="VerifyUploadEnabled.tcKDTest" />
+						<child name="VerifyUploadDisabled" key="{6EF2DC21-39E5-4536-8DB8-BFD3A7AE0C36}" path="VerifyUploadDisabled.tcKDTest" />
 					</folder>
 					<folder name="CR">
 						<child name="SearchCRPortal" key="{552E841D-9B5D-4C0F-AAFD-146A66BE40D6}" path="SearchCRPortal.tcKDTest" />
