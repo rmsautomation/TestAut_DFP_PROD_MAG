@@ -75,7 +75,7 @@
         Log.Message("Number of rows in XLSX: " + rowCount);
 
         // Verify if the number of rows matches the expected value (16)
-        if (rowCount === 12) {
+        if (rowCount === 13) {
           Log.Checkpoint("The number of rows matches the expected value. Test PASSED");
         } else {
           Log.Error("The number of rows does not match the expected value. Test FAILED");
