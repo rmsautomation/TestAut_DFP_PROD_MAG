@@ -7076,24 +7076,6 @@
 												<TypeInfo Item0="{18280DA8-CE42-4455-8E18-30F2047E80F0}" />
 												<Selectors>
 													<Selector>
-														<Value Value="" />
-													</Selector>
-													<Selector>
-														<Value Value="" />
-													</Selector>
-													<Selector>
-														<Value Value="" />
-													</Selector>
-													<Selector>
-														<Value Value="" />
-													</Selector>
-													<Selector>
-														<Value Value="" />
-													</Selector>
-													<Selector>
-														<Value Value="" />
-													</Selector>
-													<Selector>
 														<Value Value="xpath=//button[.//div[@class=&apos;lms&apos; and contains(normalize-space(text()), &apos;Please confirm your email&apos;)]]" />
 													</Selector>
 													<Selector>
