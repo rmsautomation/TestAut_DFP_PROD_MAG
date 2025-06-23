@@ -5864,6 +5864,12 @@
 										<TypeInfo Item0="{D0C17A97-FBCB-484E-B458-261FDAEB6BCB}" />
 										<Selectors>
 											<Selector>
+												<Value Value="xpath=//*[name()=&apos;svg&apos;][contains(@class, &apos;p-dropdown-trigger-icon&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="xpath=//div[@id=&apos;pn_id_6&apos;]//*[name()=&apos;svg&apos;]" />
+											</Selector>
+											<Selector>
 												<Value Value="//p-dropdown//chevrondownicon/*[name()=&apos;svg&apos;]/*[name()=&apos;path&apos;]" />
 											</Selector>
 										</Selectors>
@@ -8570,6 +8576,9 @@
 										<TypeInfo Item0="{D0C17A97-FBCB-484E-B458-261FDAEB6BCB}" />
 										<Selectors>
 											<Selector>
+												<Value Value="xpath=//qwyk-pagination/p-paginator//p-dropdown[2]//chevrondownicon/*[name()=&apos;svg&apos;][contains(@class, &apos;p-dropdown-trigger-icon&apos;)]" />
+											</Selector>
+											<Selector>
 												<Value Value="//*[name()=&apos;svg&apos;][contains(@class, &apos;p-dropdown-trigger-icon&apos;)]" />
 											</Selector>
 											<Selector>
@@ -11077,6 +11086,9 @@
 										<TypeInfo Item0="{D0C17A97-FBCB-484E-B458-261FDAEB6BCB}" />
 										<Selectors>
 											<Selector>
+												<Value Value="xpath=//h5[.=&apos;Terms and remarks&apos;]" />
+											</Selector>
+											<Selector>
 												<Value Value="ngb-modal-window[contains(., &apos;Terms and remarks&apos;)]" />
 											</Selector>
 											<Selector>
@@ -12430,9 +12442,6 @@
 										<TypeInfo Item0="{D0C17A97-FBCB-484E-B458-261FDAEB6BCB}" />
 										<Selectors>
 											<Selector>
-												<Value Value="#ngb-nav-3" />
-											</Selector>
-											<Selector>
 												<Value Value="//a[contains(text(), &apos;Cargo Details&apos;)]" />
 											</Selector>
 											<Selector>
@@ -12504,9 +12513,6 @@
 										<TypeInfo Item0="{D0C17A97-FBCB-484E-B458-261FDAEB6BCB}" />
 										<Selectors>
 											<Selector>
-												<Value Value="#ngb-nav-4" />
-											</Selector>
-											<Selector>
 												<Value Value="//a[contains(text(), &apos;Terms &amp; Requirements&apos;)]" />
 											</Selector>
 											<Selector>
@@ -12524,6 +12530,12 @@
 										<Image FileName="-2138815867" Left="699" Top="542" Right="1634" Bottom="652" />
 										<TypeInfo Item0="{D0C17A97-FBCB-484E-B458-261FDAEB6BCB}" />
 										<Selectors>
+											<Selector>
+												<Value Value="xpath=//form//div[@id=&apos;terms-requirements&apos;]//textarea[contains(@class, &apos;form-control&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="xpath=//div[@id=&apos;terms-requirements&apos;]//textarea" />
+											</Selector>
 											<Selector>
 												<Value Value="//textarea[contains(@class, &apos;form-control&apos;)]" />
 											</Selector>
@@ -14527,6 +14539,12 @@
 									<Child Name="buttonDropdownbasic12" Key="{A5DF5F83-0DCC-4656-82DF-D7054A9233E3}">
 										<Image FileName="-269712192" Left="1411" Top="223" Right="1554" Bottom="261" />
 										<Selectors>
+											<Selector>
+												<Value Value="xpath=//button[contains(text(), &apos;PDF&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="xpath=//qwyk-pickup-orders-details//qwyk-pickup-orders-header//qwyk-downloadable-drop-down//button[@type=&apos;button&apos;]" />
+											</Selector>
 											<Selector>
 												<Value Value="#dropdownBasic1" />
 											</Selector>
