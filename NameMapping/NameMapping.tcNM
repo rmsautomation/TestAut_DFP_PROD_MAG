@@ -5634,6 +5634,9 @@
 										<TypeInfo Item0="{D0C17A97-FBCB-484E-B458-261FDAEB6BCB}" />
 										<Selectors>
 											<Selector>
+												<Value Value="xpath=//li[contains(@class, &apos;p-autocomplete-item&apos;)][1]" />
+											</Selector>
+											<Selector>
 												<Value Value="//div[.=&apos;Los Angeles, CA&apos;]" />
 											</Selector>
 											<Selector>
@@ -5864,7 +5867,10 @@
 										<TypeInfo Item0="{D0C17A97-FBCB-484E-B458-261FDAEB6BCB}" />
 										<Selectors>
 											<Selector>
-												<Value Value="xpath=//*[name()=&apos;svg&apos;][contains(@class, &apos;p-dropdown-trigger-icon&apos;)]" />
+												<Value Value="xpath=(//*[name()=&apos;svg&apos;][contains(@class, &apos;p-dropdown-trigger-icon&apos;)])[2]" />
+											</Selector>
+											<Selector>
+												<Value Value="xpath=//*[name()=&apos;svg&apos;][contains(@class, &apos;p-dropdown-trigger-icon&apos;)]" Enabled="False" />
 											</Selector>
 											<Selector>
 												<Value Value="xpath=//div[@id=&apos;pn_id_6&apos;]//*[name()=&apos;svg&apos;]" />
