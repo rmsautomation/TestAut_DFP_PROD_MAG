@@ -22,7 +22,8 @@ function closeExpExplNew() {
     // Check if the process exists before trying to access it
     if (Sys.WaitProcess(appName, 1000).Exists) {
       var process = Sys.Process(appName); // Now it's safe to access the process
-      process.Terminate();
+      //process.Terminate();
+      process.Close();
       Log.Message("Process '" + appName + "' was closed.");
     } else {
       Log.Message("Process '" + appName + "' is not running. Continuing test execution.");
@@ -44,7 +45,8 @@ function Hooks_OnLogError(Sender, LogParams)
       // Verifica si el proceso existe antes de intentar acceder
       var process = Sys.WaitProcess(appName, 1000);
       if (process.Exists) {
-        process.Terminate();
+        //process.Terminate();
+        process.Close();
         Log.Message("Process '" + appName + "' was closed.");
       } else {
         Log.Message("Process '" + appName + "' is not running.");
