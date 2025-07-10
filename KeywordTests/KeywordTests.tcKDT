@@ -273,6 +273,7 @@
 					<child name="VerifyExtensionISUp" key="{FB563706-692E-4CD1-AB21-C6F69C0DBCEF}" path="VerifyExtensionISUp.tcKDTest" />
 					<child name="ChargeMapping" key="{6771542E-2A2E-47C2-AEE4-7B7C65E98FA1}" path="ChargeMapping.tcKDTest" />
 					<child name="VerifyMappingChargesPortal" key="{D6AA2BA9-E477-4C79-8368-FAA86D104E88}" path="VerifyMappingChargesPortal.tcKDTest" />
+					<child name="AddMappingCharge" key="{DB95BF75-44C6-449B-A9BF-2391B68E1825}" path="AddMappingCharge.tcKDTest" />
 				</folder>
 				<folder name="INVOICES">
 					<child name="CreateInvoice" key="{2506CFDB-944C-43D9-9619-3732189CE569}" path="CreateInvoice.tcKDTest" />
