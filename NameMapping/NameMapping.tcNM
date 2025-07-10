@@ -5582,10 +5582,10 @@
 										<TypeInfo Item0="{FE3BBF2D-62CE-4222-9079-8A4579DCFAC4}" />
 										<Selectors>
 											<Selector>
-												<Value Value="//input[@role=&apos;searchbox&apos;]" />
+												<Value Value="//input[@type=&apos;text&apos;]" />
 											</Selector>
 											<Selector>
-												<Value Value="//input[@type=&apos;text&apos;]" />
+												<Value Value="//input[@role=&apos;searchbox&apos;]" />
 											</Selector>
 											<Selector>
 												<Value Value="//input[contains(@class, &apos;p-element&apos;)]" />
@@ -5733,10 +5733,10 @@
 										<TypeInfo Item0="{D0C17A97-FBCB-484E-B458-261FDAEB6BCB}" />
 										<Selectors>
 											<Selector>
-												<Value Value="//ngb-modal-window[@role=&apos;dialog&apos;]//div[contains(@class, &apos;ng-star-inserted&apos;)]/div/ul/li/div[contains(@class, &apos;ng-star-inserted&apos;)]" />
+												<Value Value="//div[.=&apos;Shanghai Pt&apos;]" />
 											</Selector>
 											<Selector>
-												<Value Value="//div[.=&apos;Shanghai Pt&apos;]" />
+												<Value Value="//ngb-modal-window[@role=&apos;dialog&apos;]//div[contains(@class, &apos;ng-star-inserted&apos;)]/div/ul/li/div[contains(@class, &apos;ng-star-inserted&apos;)]" />
 											</Selector>
 											<Selector>
 												<Value Value="//p-overlay//ul/li/div" />
@@ -17215,6 +17215,120 @@
 											</Selector>
 										</Selectors>
 									</Child>
+									<Child Name="formIAmThe" Key="{F387C378-5E94-4157-ABA8-E7C05B35D74E}">
+										<Image FileName="1851482293" Left="400" Top="363" Right="1520" Bottom="924" />
+										<Selectors>
+											<Selector>
+												<Value Value="//form[contains(., &apos;I am the&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//form[contains(@class, &apos;ng-tns-c145275924-25&apos;)]" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="formIAmThe2" Key="{6765D961-EF92-4D96-8A04-FB8A71FB0546}">
+										<Image FileName="1851482293" Left="400" Top="363" Right="1520" Bottom="838" />
+										<Selectors>
+											<Selector>
+												<Value Value="//form[contains(@class, &apos;quotation-request-form&apos;)]" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="textnode2" Key="{0BCD9436-32E3-4E64-A4C5-27503E8CEB6C}">
+										<Image FileName="1851482293" Left="740" Top="646" Right="754" Bottom="654" />
+										<TypeInfo Item0="{D0C17A97-FBCB-484E-B458-261FDAEB6BCB}" />
+										<Selectors>
+											<Selector>
+												<Value Value="//p-dropdown[2]//chevrondownicon/*[name()=&apos;svg&apos;]/*[name()=&apos;path&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="//div[@id=&apos;pn_id_96&apos;]//*[name()=&apos;path&apos;]" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="textnodeObjectObject" Key="{A63FD610-3DCA-4F0E-ACD0-9EC49725DC14}">
+										<Image FileName="-1638155338" Left="599" Top="837" Right="764" Bottom="872" />
+										<TypeInfo Item0="{D0C17A97-FBCB-484E-B458-261FDAEB6BCB}" />
+										<Selectors>
+											<Selector>
+												<Value Value="//li[contains(text(), &apos;All Types&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="#pn_id_96_9" />
+											</Selector>
+											<Selector>
+												<Value Value="//p-dropdownitem[10]/li[@role=&apos;option&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="//p-dropdownitem[10]/li[contains(@class, &apos;p-ripple&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//div[@id=&apos;pn_id_96&apos;]//p-dropdownitem[10]/li" />
+											</Selector>
+											<Selector>
+												<Value Value="//p-dropdownitem[10]/li" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="textnode3" Key="{89DADA75-BB43-4F16-8257-4E4A9D404533}">
+										<Image FileName="671973878" Left="571" Top="646" Right="585" Bottom="654" />
+										<TypeInfo Item0="{D0C17A97-FBCB-484E-B458-261FDAEB6BCB}" />
+										<Selectors>
+											<Selector>
+												<Value Value="//p-dropdown//chevrondownicon/*[name()=&apos;svg&apos;]/*[name()=&apos;path&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="//div[@id=&apos;pn_id_93&apos;]//*[name()=&apos;path&apos;]" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="textnodePnId93List" Key="{B62920D0-23B3-47ED-88CB-2E58A4846239}">
+										<Image FileName="2032787160" Left="460" Top="671" Right="588" Bottom="914" />
+										<Selectors>
+											<Selector>
+												<Value Value="#pn_id_93_list" />
+											</Selector>
+											<Selector>
+												<Value Value="//ul[contains(., &quot;20&apos; Container&quot;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//ul[@role=&apos;listbox&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="//ul[contains(@class, &apos;p-dropdown-items&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//div[@id=&apos;pn_id_93&apos;]//ul" />
+											</Selector>
+											<Selector>
+												<Value Value="//p-dropdown//p-overlay//ul" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="textnodeObjectObject2" Key="{CD24E8F2-5B47-44B5-93E0-727A9AB4C76C}">
+										<Image FileName="2032787160" Left="460" Top="706" Right="588" Bottom="741" />
+										<TypeInfo Item0="{D0C17A97-FBCB-484E-B458-261FDAEB6BCB}" />
+										<Selectors>
+											<Selector>
+												<Value Value="//li[contains(text(), &quot;40&apos; Container&quot;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="#pn_id_93_1" />
+											</Selector>
+											<Selector>
+												<Value Value="//p-dropdownitem[2]/li[@role=&apos;option&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="//p-dropdownitem[2]/li[contains(@class, &apos;p-ripple&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//div[@id=&apos;pn_id_93&apos;]//p-dropdownitem[2]/li" />
+											</Selector>
+											<Selector>
+												<Value Value="//p-dropdownitem[2]/li" />
+											</Selector>
+										</Selectors>
+									</Child>
 								</Children>
 							</Child>
 							<Child Name="pageLogInMagayaDfp" Key="{84D3005C-26ED-43C6-8451-E3CD1C89FC64}">
@@ -23521,6 +23635,16 @@
 					</Child>
 				</Child>
 				<Child Name="textnode" Owner="{586D47BD-ED8D-4B48-9863-8F7532F20668}" />
+				<Child Name="formIAmThe" Owner="{F387C378-5E94-4157-ABA8-E7C05B35D74E}">
+					<Child Name="formIAmThe2" Owner="{6765D961-EF92-4D96-8A04-FB8A71FB0546}">
+						<Child Name="textnode2" Owner="{0BCD9436-32E3-4E64-A4C5-27503E8CEB6C}" />
+						<Child Name="textnode3" Owner="{89DADA75-BB43-4F16-8257-4E4A9D404533}" />
+						<Child Name="textnodePnId93List" Owner="{B62920D0-23B3-47ED-88CB-2E58A4846239}">
+							<Child Name="textnodeObjectObject2" Owner="{CD24E8F2-5B47-44B5-93E0-727A9AB4C76C}" />
+						</Child>
+					</Child>
+				</Child>
+				<Child Name="textnodeObjectObject" Owner="{A63FD610-3DCA-4F0E-ACD0-9EC49725DC14}" />
 			</Child>
 			<Child Name="pageLogInMagayaDfp" Owner="{84D3005C-26ED-43C6-8451-E3CD1C89FC64}">
 				<Child Name="sectionWelcome" Owner="{57C25860-47D4-4A59-8AE1-382ED6B027F5}">

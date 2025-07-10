@@ -1,4 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Root signature="{42D2222C-ACA2-405F-8E67-05D5C42EB839}" version="2">
-	<data key="{AE3E34B8-5332-4B13-9EBA-BB78D89E326E}" />
+	<data key="{AE3E34B8-5332-4B13-9EBA-BB78D89E326E}">
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="1" kind="0" dateTime="45848.9640046296" objectName="Aliases.chrome2.pageMagayaDigitalFreightPortalHu3.formIAmThe.formIAmThe2.textnode2" objectLeft="740" objectTop="646" objectRight="754" objectBottom="654" clickPointX="750" clickPointY="649" imageFileName="tcvi29110125248200.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="2" kind="0" dateTime="45848.9640625" objectName="Aliases.chrome2.pageMagayaDigitalFreightPortalHu3.textnodeObjectObject" objectLeft="599" objectTop="837" objectRight="764" objectBottom="872" clickPointX="642" clickPointY="858" imageFileName="tcvi29115296248201.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="4" kind="0" dateTime="45848.9645833333" objectName="Aliases.chrome2.pageMagayaDigitalFreightPortalHu3.formIAmThe.formIAmThe2.textnode3" objectLeft="571" objectTop="646" objectRight="585" objectBottom="654" clickPointX="576" clickPointY="650" imageFileName="tcvi29160015248200.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="5" kind="0" dateTime="45848.9646064815" objectName="Aliases.chrome2.pageMagayaDigitalFreightPortalHu3.formIAmThe.formIAmThe2.textnodePnId93List.textnodeObjectObject2" objectLeft="460" objectTop="706" objectRight="588" objectBottom="741" clickPointX="514" clickPointY="730" imageFileName="tcvi29162484248201.png" storageFileName="" needUpdate="False" rectColor="255" />
+	</data>
 </Root>
