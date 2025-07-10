@@ -22,8 +22,8 @@ function closeExpExplNew() {
     // Check if the process exists before trying to access it
     if (Sys.WaitProcess(appName, 1000).Exists) {
       var process = Sys.Process(appName); // Now it's safe to access the process
-      //process.Terminate();
-      process.Close();
+      process.Terminate();
+      //process.Close();
       Log.Message("Process '" + appName + "' was closed.");
     } else {
       Log.Message("Process '" + appName + "' is not running. Continuing test execution.");
@@ -37,23 +37,26 @@ function closeExpExplNew() {
 function Hooks_OnLogError(Sender, LogParams)
 {
   try {
-    var apps = ["chrome", "ExpExpl"]; // Lista de procesos a cerrar
+    var apps = ["chrome", "ExpExpl"]; // List of processes
 
     for (var i = 0; i < apps.length; i++) {
       var appName = apps[i];
 
-      // Verifica si el proceso existe antes de intentar acceder
+      // Try to find the process
       var process = Sys.WaitProcess(appName, 1000);
       if (process.Exists) {
-        //process.Terminate();
-        process.Close();
-        Log.Message("Process '" + appName + "' was closed.");
+        if (appName === "chrome") {
+          process.Close();
+          Log.Message("Process '" + appName + "' was closed.");
+        } else if (appName === "ExpExpl") {
+          process.Terminate();
+          Log.Message("Process '" + appName + "' was terminated.");
+        }
       } else {
         Log.Message("Process '" + appName + "' is not running.");
       }
     }
   } catch (e) {
-    Log.Warning("Error closing processes: " + e.message);
+    Log.Warning("Error handling processes: " + e.message);
   }
-  
 }
