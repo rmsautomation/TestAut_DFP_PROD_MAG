@@ -8322,13 +8322,13 @@
 												<Value Value="xpath=//div[contains(normalize-space(text()), &apos;Advanced Manifest Surcharge&apos;)]" />
 											</Selector>
 											<Selector>
-												<Value Value="xpath=//div[contains(normalize-space(text()), &apos;Air Cargo Automation&apos;)]" />
+												<Value Value="xpath=//div[contains(normalize-space(text()), &apos;Air Cargo Automation&apos;)]" Enabled="False" />
 											</Selector>
 											<Selector>
-												<Value Value="xpath=//div[contains(text(), &apos;Air Cargo Automation&apos;)]" />
+												<Value Value="xpath=//div[contains(text(), &apos;Air Cargo Automation&apos;)]" Enabled="False" />
 											</Selector>
 											<Selector>
-												<Value Value="//div[157]/div[contains(@class, &apos;col-6&apos;)]" />
+												<Value Value="//div[157]/div[contains(@class, &apos;col-6&apos;)]" Enabled="False" />
 											</Selector>
 										</Selectors>
 									</Child>
