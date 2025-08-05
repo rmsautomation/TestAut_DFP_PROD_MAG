@@ -261,6 +261,8 @@
 					<child name="EnableViewCRContact" key="{B33C137D-B3A3-441A-A7B5-7ECACAA81FFE}" path="EnableViewCRContact.tcKDTest" />
 					<child name="DisabledUploadAttch" key="{1C026E62-62E8-40B9-B529-32C161E2215D}" path="DisabledUploadAttch.tcKDTest" />
 					<child name="EnabledUploadAttach" key="{14C24261-BD38-43F6-A1B3-8CB20151022E}" path="EnabledUploadAttach.tcKDTest" />
+					<child name="GoToContactsList" key="{8CC99A18-9020-453E-AF0C-89B4F0553F02}" path="GoToContactsList.tcKDTest" />
+					<child name="GoToCustomersList" key="{11AC1353-F1D1-47A0-8A84-25EED7CB4704}" path="GoToCustomersList.tcKDTest" />
 				</folder>
 				<folder name="Filters">
 					<child name="AdvancedFilterBy" key="{E2A6CF1A-9DDB-46BE-9228-3AA8DDAC081D}" path="AdvancedFilterBy.tcKDTest" />
@@ -350,6 +352,7 @@
 					<child name="UpdateBookingMagaya" key="{EC8C3CB2-6CFE-4D57-8E8A-5AA9214803B3}" path="UpdateBookingMagaya.tcKDTest" />
 					<child name="VerifyMappingChargesMagaya" key="{4BCB814F-831B-4A23-9CB8-99383F292FC3}" path="VerifyMappingChargesMagaya.tcKDTest" />
 					<child name="AddChargeMagaya" key="{39458DDC-D455-49D9-AD3C-7DD6042B7719}" path="AddChargeMagaya.tcKDTest" />
+					<child name="GoToBookingsList" key="{10E2AD2A-5CEA-4B9D-8C56-AD28E0F98C65}" path="GoToBookingsList.tcKDTest" />
 				</folder>
 				<folder name="WR">
 					<child name="CreateWR" key="{06D0D3E6-BAD2-4545-822B-C43C2655AB79}" path="CreateWR.tcKDTest" />
@@ -364,6 +367,7 @@
 					<child name="UpdateCRMagaya" key="{5A980669-0514-44DC-A0C9-D5D56290F3AC}" path="UpdateCRMagaya.tcKDTest" />
 					<child name="VerifyAttachmentCRFromDFP" key="{7129002A-CBD8-4E4B-9047-72D5CC14659C}" path="VerifyAttachmentCRFromDFP.tcKDTest" />
 					<child name="VerifyAutomaticEventCRCreated" key="{619158EC-B1A6-4562-B125-7B6F848F7C03}" path="VerifyAutomaticEventCRCreated.tcKDTest" />
+					<child name="GoToCReleaseList" key="{69CA6A8D-32F2-4C72-8EA8-78C33757F25A}" path="GoToCReleaseList.tcKDTest" />
 				</folder>
 				<folder name="InventoryItem">
 					<child name="CreateInventoryItem" key="{FA7C7F65-7004-46DD-993C-4FC2F297B704}" path="CreateInventoryItem.tcKDTest" />
@@ -385,6 +389,7 @@
 				<folder name="COMMODITY">
 					<child name="SearchCommodityMagaya" key="{649E680C-7A9E-4202-B679-D414F2497A03}" path="SearchCommodityMagaya.tcKDTest" />
 					<child name="Copy250Commodities" key="{BCFADF9F-4A85-427B-BB1B-A17D10D90B47}" path="Copy250Commodities.tcKDTest" />
+					<child name="GoToCommodityList" key="{F770E4A4-4E77-4BC5-A1AC-699F01840255}" path="GoToCommodityList.tcKDTest" />
 				</folder>
 				<folder name="CleanUp">
 					<child name="CloseExplorer" key="{CB98C311-B602-466A-8764-5D0D9695A6AF}" path="CloseExplorer.tcKDTest" />
