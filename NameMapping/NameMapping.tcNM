@@ -5060,6 +5060,51 @@
 											</Selector>
 										</Selectors>
 									</Child>
+									<Child Name="textnodeBilling" Key="{9B58310E-E340-4A65-9E02-5DD34CD986A6}">
+										<Image FileName="-927338685" Left="8" Top="467" Right="227" Bottom="513" />
+										<TypeInfo Item0="{8A34ED57-033C-4E01-B624-E540D7FA56BB}" />
+										<Selectors>
+											<Selector>
+												<Value Value="//li[contains(., &apos;Billing&apos;)]" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="linkBilling" Key="{A2309D33-A682-4F6A-B5E2-557897B0FEFA}">
+										<Image FileName="-927338685" Left="8" Top="467" Right="227" Bottom="513" />
+										<TypeInfo Item0="{D3C2C6BB-DEEA-4DE3-92D1-6A940332AFCB}" />
+										<Selectors>
+											<Selector>
+												<Value Value="//a[.=&apos;Billing&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="//li[7]/a[contains(@class, &apos;nav-link&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//div[@id=&apos;navSidebar&apos;]//li[7]/a" />
+											</Selector>
+											<Selector>
+												<Value Value="//li[7]/a" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="textnodeBilling2" Key="{7D6C093D-1420-4D4F-AFF3-C749D8403913}">
+										<Image FileName="-927338685" Left="56" Top="479" Right="95" Bottom="501" />
+										<TypeInfo Item0="{8A34ED57-033C-4E01-B624-E540D7FA56BB}" />
+										<Selectors>
+											<Selector>
+												<Value Value="//span[.=&apos;Billing&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="//li[7]/a/span[contains(@class, &apos;nav-link-text&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//a[contains(@href, &apos;invoices&apos;)]/span" />
+											</Selector>
+											<Selector>
+												<Value Value="//li[7]/a/span" />
+											</Selector>
+										</Selectors>
+									</Child>
 								</Children>
 							</Child>
 							<Child Name="pageMagaya2" Key="{962F081A-A9C4-4922-9DDD-2149A776D766}">
@@ -8352,10 +8397,10 @@
 												<Value Value="xpath=//div[contains(normalize-space(text()), &apos;20 FT PREMIUM&apos;)]" />
 											</Selector>
 											<Selector>
-												<Value Value="//div[contains(text(), &apos;20 FT PREMIUM (origin)&apos;)]" />
+												<Value Value="//div[contains(text(), &apos;20 FT PREMIUM (origin)&apos;)]" Enabled="False" />
 											</Selector>
 											<Selector>
-												<Value Value="//div[183]/div[contains(@class, &apos;col-6&apos;)]" />
+												<Value Value="//div[183]/div[contains(@class, &apos;col-6&apos;)]" Enabled="False" />
 											</Selector>
 										</Selectors>
 									</Child>
@@ -22517,6 +22562,11 @@
 					</Child>
 					<Child Name="textnodeCargoReleases2" Owner="{3DB38454-6298-4EE3-BD42-14825EB817A1}">
 						<Child Name="linkInvoices3" Owner="{1DC5FDC0-EC92-4020-99A1-B1FF4109CBF6}" />
+					</Child>
+					<Child Name="textnodeBilling" Owner="{9B58310E-E340-4A65-9E02-5DD34CD986A6}">
+						<Child Name="linkBilling" Owner="{A2309D33-A682-4F6A-B5E2-557897B0FEFA}">
+							<Child Name="textnodeBilling2" Owner="{7D6C093D-1420-4D4F-AFF3-C749D8403913}" />
+						</Child>
 					</Child>
 				</Child>
 			</Child>
