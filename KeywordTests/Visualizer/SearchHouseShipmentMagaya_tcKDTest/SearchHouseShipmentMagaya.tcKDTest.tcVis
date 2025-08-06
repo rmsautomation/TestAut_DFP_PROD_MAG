@@ -1,4 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Root signature="{42D2222C-ACA2-405F-8E67-05D5C42EB839}" version="2">
-	<data key="{7BBD7264-F1ED-4029-BC49-A23F9D70D742}" />
+	<data key="{7BBD7264-F1ED-4029-BC49-A23F9D70D742}">
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="3" kind="0" dateTime="45875.6074652778" objectName="Aliases.ExpExpl.mainWindow.completePanel.panel.outline" objectLeft="0" objectTop="139" objectRight="300" objectBottom="1038" clickPointX="19" clickPointY="488" imageFileName="tcvi502770350280.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="4" kind="0" dateTime="45875.6075231481" objectName="Aliases.ExpExpl.mainWindow.completePanel.panel.outline" objectLeft="0" objectTop="139" objectRight="300" objectBottom="1038" clickPointX="32" clickPointY="536" imageFileName="tcvi503215650281.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="5" kind="0" dateTime="45875.6075462963" objectName="Aliases.ExpExpl.mainWindow.completePanel.panel.outline.outlineitemHawb42updated" objectLeft="79" objectTop="547" objectRight="200" objectBottom="571" clickPointX="86" clickPointY="557" imageFileName="tcvi503445350282.png" storageFileName="" needUpdate="False" rectColor="255" />
+	</data>
 </Root>
