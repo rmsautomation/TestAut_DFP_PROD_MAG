@@ -166,7 +166,7 @@
 				<environments activeCloud="SWT" />
 				<children />
 			</testItem>
-			<testItem name="CleanUpShipmentsMagaya" key="{F7426C96-7DDE-4F5B-A811-FE428C7EA3D2}" group="False" parallel="False" enabled="True" testMoniker="KDT\{808A3F47-1342-47A1-AE03-E6EE6CB25EE2}" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="False">
+			<testItem name="CleanUpShipmentsMagaya" key="{F7426C96-7DDE-4F5B-A811-FE428C7EA3D2}" group="False" parallel="False" enabled="False" testMoniker="KDT\{808A3F47-1342-47A1-AE03-E6EE6CB25EE2}" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="False">
 				<testParameters />
 				<environments activeCloud="SWT" />
 				<children />
