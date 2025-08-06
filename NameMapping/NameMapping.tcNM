@@ -21517,6 +21517,27 @@
 																			</Property>
 																		</Properties>
 																	</Child>
+																	<Child Name="listitemShipment120" Key="{AFCECA5B-FF52-48E5-9E57-A2EAD6EEE047}">
+																		<Image FileName="565824623" Left="307" Top="163" Right="1903" Bottom="182" />
+																		<TypeInfo Item0="{ECEED1AB-62AC-4144-8E61-E4E2F8BA7D12}" />
+																		<Properties>
+																			<Property Name="ObjectType">
+																				<Value Value="ListItem" />
+																			</Property>
+																			<Property Name="ObjectGroupIndex">
+																				<Value Value="1" Type="0" />
+																			</Property>
+																			<Property Name="Id">
+																				<Value Value="0" Type="0" />
+																			</Property>
+																			<Property Name="ControlIndex">
+																				<Value Value="1" Type="0" />
+																			</Property>
+																			<Property Name="Width">
+																				<Value Value="1596" Type="0" />
+																			</Property>
+																		</Properties>
+																	</Child>
 																</Children>
 															</Child>
 														</Children>
@@ -22291,6 +22312,21 @@
 																	</Property>
 																	<Property Name="Caption">
 																		<Value Value="Warehouse Receipt List" />
+																	</Property>
+																	<Property Name="ObjectGroupIndex">
+																		<Value Value="1" Type="0" />
+																	</Property>
+																</Properties>
+															</Child>
+															<Child Name="outlineitemIncomingShipments" Key="{3D0966B7-DD29-421F-90FF-53E0DA2BBD6E}">
+																<Image FileName="-1703855747" Left="41" Top="451" Right="170" Bottom="475" />
+																<TypeInfo Item0="{ECEED1AB-62AC-4144-8E61-E4E2F8BA7D12}" />
+																<Properties>
+																	<Property Name="ObjectType">
+																		<Value Value="OutlineItem" />
+																	</Property>
+																	<Property Name="Caption">
+																		<Value Value="Incoming Shipments" />
 																	</Property>
 																	<Property Name="ObjectGroupIndex">
 																		<Value Value="1" Type="0" />
@@ -24629,6 +24665,7 @@
 							<Child Name="outlineitemHawb42updated" Owner="{D9029BD8-DBCC-4917-9186-EF7A00E67A59}" />
 							<Child Name="outlineitemShipment121updated" Owner="{F1002C96-4537-4531-ADA8-7C4D9AD747C0}" />
 							<Child Name="outlineitemWarehouseReceiptList" Owner="{6A2D7CF5-DF32-4B88-A0CA-5FFF54397606}" />
+							<Child Name="outlineitemIncomingShipments" Owner="{3D0966B7-DD29-421F-90FF-53E0DA2BBD6E}" />
 						</Child>
 					</Child>
 				</Child>
@@ -24753,6 +24790,7 @@
 							<Child Name="listitemShipment103" Owner="{BD85BF3A-AE4E-40EA-AEA1-B8CE17276567}" />
 							<Child Name="listitemShipment105" Owner="{BB5FFB27-85A0-4443-A8FC-7D940F876C1B}" />
 							<Child Name="listitemShipment65updated" Owner="{9C085A29-047D-4B58-8A72-7FAC9FA99A1E}" />
+							<Child Name="listitemShipment120" Owner="{AFCECA5B-FF52-48E5-9E57-A2EAD6EEE047}" />
 						</Child>
 					</Child>
 					<Child Name="page327703" Owner="{D76BE3AF-D377-488B-8AA7-ACB5AAE4E132}">
