@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{42D2222C-ACA2-405F-8E67-05D5C42EB839}" version="2">
+	<data key="{8BDEFC46-9165-4935-8F6A-907D62D2DA20}">
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="0" kind="0" dateTime="45875.6203819444" objectName="Aliases.ExpExpl.mainWindow.completePanel.panel.outline" objectLeft="0" objectTop="139" objectRight="300" objectBottom="1038" clickPointX="13" clickPointY="344" imageFileName="tcvi614307850280.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="1" kind="0" dateTime="45875.6204166667" objectName="Aliases.ExpExpl.mainWindow.completePanel.panel.outline.outlineitemWarehouseReceiptList" objectLeft="60" objectTop="427" objectRight="206" objectBottom="451" clickPointX="109" clickPointY="437" imageFileName="tcvi614612550281.png" storageFileName="" needUpdate="False" rectColor="255" />
+	</data>
+</Root>

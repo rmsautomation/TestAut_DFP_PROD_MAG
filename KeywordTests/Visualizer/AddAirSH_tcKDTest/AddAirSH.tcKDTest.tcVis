@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{42D2222C-ACA2-405F-8E67-05D5C42EB839}" version="2">
+	<data key="{C24AD326-0417-447C-92E9-287148D4DB10}">
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="1" kind="0" dateTime="45875.5988888889" objectName="Aliases.ExpExpl.mainWindow.completePanel.panel.outline.outlineitemOutgoingShipments" objectLeft="41" objectTop="475" objectRight="172" objectBottom="499" clickPointX="130" clickPointY="495" imageFileName="tcvi428682873001.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="2" kind="0" dateTime="45875.5996990741" objectName="Aliases.ExpExpl.mainWindow.completePanel.panel.outline.outlineitemOutgoingShipments" objectLeft="89" objectTop="482" objectRight="153" objectBottom="494" clickPointX="148" clickPointY="487" imageFileName="tcvi435662573002.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="3" kind="0" dateTime="45875.5997337963" objectName="Aliases.ExpExpl.popupContext.menuitemAddShipments" objectLeft="3" objectTop="215" objectRight="264" objectBottom="237" clickPointX="50" clickPointY="227" imageFileName="tcvi435903173003.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="4" kind="0" dateTime="45875.5997453704" objectName="Aliases.ExpExpl.popupAddShipments.menuitemAirShipment" objectLeft="3" objectTop="3" objectRight="346" objectBottom="25" clickPointX="56" clickPointY="13" imageFileName="tcvi436085973006.png" storageFileName="" needUpdate="False" rectColor="255" />
+	</data>
+</Root>
