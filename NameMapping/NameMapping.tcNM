@@ -22333,6 +22333,21 @@
 																	</Property>
 																</Properties>
 															</Child>
+															<Child Name="outlineitem164updated" Key="{41BBD7B5-AF35-491C-9AEF-5AE68270FF83}">
+																<Image FileName="-1299760210" Left="60" Top="787" Right="153" Bottom="811" />
+																<TypeInfo Item0="{ECEED1AB-62AC-4144-8E61-E4E2F8BA7D12}" />
+																<Properties>
+																	<Property Name="ObjectType">
+																		<Value Value="OutlineItem" />
+																	</Property>
+																	<Property Name="ObjectGroupIndex">
+																		<Value Value="1" Type="0" />
+																	</Property>
+																	<Property Name="Name">
+																		<Value PropertyType="1" LocalVariable="shipmentMapping" />
+																	</Property>
+																</Properties>
+															</Child>
 														</Children>
 													</Child>
 												</Children>
@@ -24666,6 +24681,7 @@
 							<Child Name="outlineitemShipment121updated" Owner="{F1002C96-4537-4531-ADA8-7C4D9AD747C0}" />
 							<Child Name="outlineitemWarehouseReceiptList" Owner="{6A2D7CF5-DF32-4B88-A0CA-5FFF54397606}" />
 							<Child Name="outlineitemIncomingShipments" Owner="{3D0966B7-DD29-421F-90FF-53E0DA2BBD6E}" />
+							<Child Name="outlineitem164updated" Owner="{41BBD7B5-AF35-491C-9AEF-5AE68270FF83}" />
 						</Child>
 					</Child>
 				</Child>
