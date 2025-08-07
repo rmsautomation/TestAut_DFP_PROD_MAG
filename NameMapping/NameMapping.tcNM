@@ -7959,7 +7959,7 @@
 												<Value Value="//h3[contains(@class, &apos;font-weight-normal&apos;)]" />
 											</Selector>
 											<Selector>
-												<Value Value="//h3" />
+												<Value Value="//h3" Enabled="False" />
 											</Selector>
 										</Selectors>
 									</Child>
