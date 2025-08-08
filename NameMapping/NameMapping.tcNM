@@ -20732,6 +20732,21 @@
 																											</Property>
 																										</Properties>
 																									</Child>
+																									<Child Name="listitemTest26583Kb" Key="{BCE7A3C4-5B5C-4596-A8AC-1820AA368ECD}">
+																										<Image FileName="1475564154" Left="578" Top="394" Right="700" Bottom="494" />
+																										<TypeInfo Item0="{ECEED1AB-62AC-4144-8E61-E4E2F8BA7D12}" />
+																										<Properties>
+																											<Property Name="ObjectType">
+																												<Value Value="ListItem" />
+																											</Property>
+																											<Property Name="Caption">
+																												<Value Value="test2 (65.83 KB)" />
+																											</Property>
+																											<Property Name="ObjectGroupIndex">
+																												<Value Value="1" Type="0" />
+																											</Property>
+																										</Properties>
+																									</Child>
 																								</Children>
 																							</Child>
 																						</Children>
@@ -24850,6 +24865,7 @@
 										<Child Name="btnAdd" Owner="{48A48281-8D3E-47F5-A976-B453DBAD89CE}" />
 										<Child Name="list" Owner="{8C56B2D5-41E7-4676-A79F-9391AB0289E9}">
 											<Child Name="listitemTest16475Kb" Owner="{52102BA1-2FEA-4978-925A-FFD75867D906}" />
+											<Child Name="listitemTest26583Kb" Owner="{BCE7A3C4-5B5C-4596-A8AC-1820AA368ECD}" />
 										</Child>
 									</Child>
 									<Child Name="pageGeneral" Owner="{F0254FA5-409F-4459-B0BF-CDB4512AEEE9}">
