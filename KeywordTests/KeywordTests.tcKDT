@@ -396,6 +396,7 @@
 					<child name="UpdatePaymementMagaya" key="{160AC216-E0B7-4D9D-8696-0A4AA6B3AB39}" path="UpdatePaymementMagaya.tcKDTest" />
 					<child name="GoToPaymentsList" key="{02245AC6-7A35-4470-AC55-8D1DC0260548}" path="GoToPaymentsList.tcKDTest" />
 					<child name="PressAddPaymentButton" key="{1DD43C05-1970-4521-B282-2FC5A5908EB6}" path="PressAddPaymentButton.tcKDTest" />
+					<child name="AddFilterToSelectPayment" key="{620FE158-359B-45BB-96B1-131F63397F5D}" path="AddFilterToSelectPayment.tcKDTest" />
 				</folder>
 				<folder name="COMMODITY">
 					<child name="SearchCommodityMagaya" key="{649E680C-7A9E-4202-B679-D414F2497A03}" path="SearchCommodityMagaya.tcKDTest" />

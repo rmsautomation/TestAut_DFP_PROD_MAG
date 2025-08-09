@@ -5105,6 +5105,51 @@
 											</Selector>
 										</Selectors>
 									</Child>
+									<Child Name="textnodeInvoices" Key="{E6925DC2-623A-4A95-84C7-329E513DEEE8}">
+										<Image FileName="-35055806" Left="8" Top="460" Right="227" Bottom="543" />
+										<TypeInfo Item0="{8A34ED57-033C-4E01-B624-E540D7FA56BB}" />
+										<Selectors>
+											<Selector>
+												<Value Value="//ul[contains(., &apos;Invoices&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//li[7]/ul[contains(@class, &apos;nav&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//div[@id=&apos;navSidebar&apos;]//li[7]/ul" />
+											</Selector>
+											<Selector>
+												<Value Value="//li[7]/ul" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="textnodePayments" Key="{D01DAC7D-FAAD-4524-82D3-0C7C90427B57}">
+										<Image FileName="-35055806" Left="8" Top="502" Right="227" Bottom="544" />
+										<TypeInfo Item0="{8A34ED57-033C-4E01-B624-E540D7FA56BB}" />
+										<Selectors>
+											<Selector>
+												<Value Value="//li[7]/ul/li[3]" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="linkPayments" Key="{0B71DBAD-2FA3-4987-9FB5-3BCABBACDE82}">
+										<Image FileName="354927053" Left="8" Top="502" Right="227" Bottom="544" />
+										<TypeInfo Item0="{D3C2C6BB-DEEA-4DE3-92D1-6A940332AFCB}" />
+										<Selectors>
+											<Selector>
+												<Value Value="//a[contains(text(), &apos;Payments&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//li[7]/ul/li[3]/a[contains(@class, &apos;nav-link&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//div[@id=&apos;navSidebar&apos;]//li[7]/ul/li[3]/a" />
+											</Selector>
+											<Selector>
+												<Value Value="//li[7]/ul/li[3]/a" />
+											</Selector>
+										</Selectors>
+									</Child>
 								</Children>
 							</Child>
 							<Child Name="pageMagaya2" Key="{962F081A-A9C4-4922-9DDD-2149A776D766}">
@@ -19427,6 +19472,47 @@
 													</Property>
 												</Properties>
 											</Child>
+											<Child Name="toolbar" Key="{5B999AB7-E543-4AE9-8E1A-CEE44C2E6F63}">
+												<Image FileName="-99580868" Left="602" Top="489" Right="664" Bottom="522" />
+												<Properties>
+													<Property Name="WndClass">
+														<Value Value="ToolbarWindow32" />
+													</Property>
+												</Properties>
+												<Children>
+													<Child Name="splitbuttonFilter" Key="{5D9AFB88-6CCC-4FD5-90E6-12FC65343DC2}">
+														<Image FileName="-99580868" Left="602" Top="489" Right="648" Bottom="519" />
+														<Properties>
+															<Property Name="ObjectType">
+																<Value Value="SplitButton" />
+															</Property>
+															<Property Name="Caption">
+																<Value Value="Filter" />
+															</Property>
+															<Property Name="ObjectGroupIndex">
+																<Value Value="1" Type="0" />
+															</Property>
+														</Properties>
+														<Children>
+															<Child Name="dropdownbuttonOpen" Key="{6E2AB6F0-BA5A-40FB-AE10-F394E95EA48D}">
+																<Image FileName="-99580868" Left="633" Top="489" Right="648" Bottom="519" />
+																<TypeInfo Item0="{ECEED1AB-62AC-4144-8E61-E4E2F8BA7D12}" />
+																<Properties>
+																	<Property Name="ObjectType">
+																		<Value Value="DropDownButton" />
+																	</Property>
+																	<Property Name="Caption">
+																		<Value Value="Open" />
+																	</Property>
+																	<Property Name="ObjectGroupIndex">
+																		<Value Value="1" Type="0" />
+																	</Property>
+																</Properties>
+															</Child>
+														</Children>
+													</Child>
+												</Children>
+											</Child>
 										</Children>
 									</Child>
 									<Child Name="tbcAccountingTransaction" Key="{8E0B9DB8-20F6-4640-9618-B6DE55578D37}">
@@ -20619,6 +20705,49 @@
 																										<Value Value="Add..." />
 																									</Property>
 																								</Properties>
+																							</Child>
+																							<Child Name="list" Key="{8C56B2D5-41E7-4676-A79F-9391AB0289E9}">
+																								<Image FileName="-856193728" Left="336" Top="400" Right="1324" Bottom="915" />
+																								<Properties>
+																									<Property Name="WndClass">
+																										<Value Value="SysListView32" />
+																									</Property>
+																									<Property Name="WndCaption">
+																										<Value Value="List1" />
+																									</Property>
+																								</Properties>
+																								<Children>
+																									<Child Name="listitemTest16475Kb" Key="{52102BA1-2FEA-4978-925A-FFD75867D906}">
+																										<Image FileName="-856193728" Left="462" Top="402" Right="584" Bottom="502" />
+																										<TypeInfo Item0="{ECEED1AB-62AC-4144-8E61-E4E2F8BA7D12}" />
+																										<Properties>
+																											<Property Name="ObjectType">
+																												<Value Value="ListItem" />
+																											</Property>
+																											<Property Name="Caption">
+																												<Value Value="test (164.75 KB)" />
+																											</Property>
+																											<Property Name="ObjectGroupIndex">
+																												<Value Value="1" Type="0" />
+																											</Property>
+																										</Properties>
+																									</Child>
+																									<Child Name="listitemTest26583Kb" Key="{BCE7A3C4-5B5C-4596-A8AC-1820AA368ECD}">
+																										<Image FileName="1475564154" Left="578" Top="394" Right="700" Bottom="494" />
+																										<TypeInfo Item0="{ECEED1AB-62AC-4144-8E61-E4E2F8BA7D12}" />
+																										<Properties>
+																											<Property Name="ObjectType">
+																												<Value Value="ListItem" />
+																											</Property>
+																											<Property Name="Caption">
+																												<Value Value="test2 (65.83 KB)" />
+																											</Property>
+																											<Property Name="ObjectGroupIndex">
+																												<Value Value="1" Type="0" />
+																											</Property>
+																										</Properties>
+																									</Child>
+																								</Children>
 																							</Child>
 																						</Children>
 																					</Child>
@@ -23257,6 +23386,11 @@
 							<Child Name="textnodeBilling2" Owner="{7D6C093D-1420-4D4F-AFF3-C749D8403913}" />
 						</Child>
 					</Child>
+					<Child Name="textnodeInvoices" Owner="{E6925DC2-623A-4A95-84C7-329E513DEEE8}">
+						<Child Name="textnodePayments" Owner="{D01DAC7D-FAAD-4524-82D3-0C7C90427B57}">
+							<Child Name="linkPayments" Owner="{0B71DBAD-2FA3-4987-9FB5-3BCABBACDE82}" />
+						</Child>
+					</Child>
 				</Child>
 			</Child>
 			<Child Name="pageMagaya3" Owner="{78BC1E93-79ED-4600-85D7-71C598836EE8}">
@@ -24550,6 +24684,11 @@
 					<Child Name="check2" Owner="{E5712288-1DF1-4A08-9CDB-60A21689063E}" />
 					<Child Name="RICHEDIT" Owner="{E2AA9D2E-691B-41E7-AB4D-9593844BBD9B}" />
 					<Child Name="buttonFind" Owner="{09291B29-9B43-4860-9D71-90F6515C14A8}" />
+					<Child Name="toolbar" Owner="{5B999AB7-E543-4AE9-8E1A-CEE44C2E6F63}">
+						<Child Name="splitbuttonFilter" Owner="{5D9AFB88-6CCC-4FD5-90E6-12FC65343DC2}">
+							<Child Name="dropdownbuttonOpen" Owner="{6E2AB6F0-BA5A-40FB-AE10-F394E95EA48D}" />
+						</Child>
+					</Child>
 				</Child>
 				<Child Name="tbcAccountingTransaction" Owner="{8E0B9DB8-20F6-4640-9618-B6DE55578D37}">
 					<Child Name="spinbox" Owner="{5AA68BEE-CD37-42C5-AED9-DA3F1B4454BB}">
@@ -24724,6 +24863,10 @@
 											<Child Name="listitemTest2" Owner="{8C3ED96A-17F6-4388-85F1-A4F75443EEEB}" />
 										</Child>
 										<Child Name="btnAdd" Owner="{48A48281-8D3E-47F5-A976-B453DBAD89CE}" />
+										<Child Name="list" Owner="{8C56B2D5-41E7-4676-A79F-9391AB0289E9}">
+											<Child Name="listitemTest16475Kb" Owner="{52102BA1-2FEA-4978-925A-FFD75867D906}" />
+											<Child Name="listitemTest26583Kb" Owner="{BCE7A3C4-5B5C-4596-A8AC-1820AA368ECD}" />
+										</Child>
 									</Child>
 									<Child Name="pageGeneral" Owner="{F0254FA5-409F-4459-B0BF-CDB4512AEEE9}">
 										<Child Name="editShipmentName" Owner="{6D3DBD20-E881-4BCE-B8ED-C5E07344F348}" />
