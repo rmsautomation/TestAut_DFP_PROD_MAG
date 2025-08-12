@@ -19,5 +19,5 @@
     }
   }
  
-  Log.Warning("No OutlineItem found containing: " + shipmentNameClean);
+  Log.Message("No OutlineItem found containing: " + shipmentNameClean);
 }
