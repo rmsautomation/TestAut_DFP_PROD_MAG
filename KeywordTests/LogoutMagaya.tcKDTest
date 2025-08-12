@@ -14,7 +14,7 @@
 		<Children>
 			<Operation Type="{CE294ABA-E13B-4B94-AFC8-FA8F4249123D}">
 				<Data Description="Moves the mouse cursor to the menu item specified and then simulates a single click." Action="Click" MenuType="0" PreferredMenu="MainMenu">
-					<CommonData WaitTimeout="60000" />
+					<CommonData WaitTimeout="380000" />
 					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
 						<Parameter Name="Item" DefVarType="12" VarType="8" ValueType="6" ValueValue="File|Exit" />
 					</Parameters>
