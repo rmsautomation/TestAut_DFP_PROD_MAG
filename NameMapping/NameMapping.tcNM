@@ -20625,6 +20625,9 @@
 																					<Property Name="WndClass">
 																						<Value Value="#32770" />
 																					</Property>
+																					<Property Name="Index">
+																						<Value Value="1" Type="0" />
+																					</Property>
 																				</Properties>
 																				<Children>
 																					<Child Name="tbc" Key="{5839D0E5-BBA8-46E0-8AFA-82785D9C9A7C}">
@@ -21439,15 +21442,36 @@
 																						<Image FileName="1662337209" Left="1508" Top="412" Right="1910" Bottom="953" />
 																						<TypeInfo Item0="{0FF1297C-23C3-4736-B17C-F093BBC9548C}" />
 																						<Properties>
-																							<Property Name="WndClass">
-																								<Value Value="SysTreeView32" />
+																							<Property Name="ClassName">
+																								<Value Value="CShippedPage" />
 																							</Property>
-																							<Property Name="WndCaption">
-																								<Value Value="Tree1" />
+																							<Property Name="FrameworkId">
+																								<Value Value="Win32" />
+																							</Property>
+																							<Property Name="LocalizedControlType">
+																								<Value Value="Dialog" />
+																							</Property>
+																							<Property Name="ObjectGroupIndex">
+																								<Value Value="1" Type="0" />
+																							</Property>
+																							<Property Name="Index">
+																								<Value Value="2" Type="0" />
 																							</Property>
 																						</Properties>
 																					</Child>
 																				</Children>
+																			</Child>
+																			<Child Name="propertypage" Key="{931486E6-B3A7-4A27-842D-9837F5F80F14}">
+																				<Image FileName="-1445459497" Left="1921" Top="394" Right="1928" Bottom="1042" />
+																				<TypeInfo Item0="{BC624F6B-D47F-4FF8-85F8-ECE509130848}" />
+																				<Properties>
+																					<Property Name="WndClass">
+																						<Value Value="#32770" />
+																					</Property>
+																					<Property Name="Index">
+																						<Value Value="2" Type="0" />
+																					</Property>
+																				</Properties>
 																			</Child>
 																		</Children>
 																	</Child>
@@ -22478,6 +22502,21 @@
 																</Properties>
 															</Child>
 														</Children>
+													</Child>
+													<Child Name="buttonCollapseBtn" Key="{0F0DBDB7-3D3A-4BE7-A428-ECA7D482EAAD}">
+														<Image FileName="1343417395" Left="0" Top="107" Right="32" Bottom="139" />
+														<TypeInfo Item0="{2E69653D-DE91-48BD-ABCA-C81B9D1229E9}" />
+														<Properties>
+															<Property Name="ObjectType">
+																<Value Value="Button" />
+															</Property>
+															<Property Name="Caption">
+																<Value Value="Collapse btn" />
+															</Property>
+															<Property Name="ObjectGroupIndex">
+																<Value Value="1" Type="0" />
+															</Property>
+														</Properties>
 													</Child>
 												</Children>
 											</Child>
@@ -24822,6 +24861,7 @@
 							<Child Name="outlineitemIncomingShipments" Owner="{3D0966B7-DD29-421F-90FF-53E0DA2BBD6E}" />
 							<Child Name="outlineitem164updated" Owner="{41BBD7B5-AF35-491C-9AEF-5AE68270FF83}" />
 						</Child>
+						<Child Name="buttonCollapseBtn" Owner="{0F0DBDB7-3D3A-4BE7-A428-ECA7D482EAAD}" />
 					</Child>
 				</Child>
 				<Child Name="mainFrame" Owner="{C9DFA5BE-6887-4F72-A50E-BEE3562FAE70}">
@@ -24853,8 +24893,8 @@
 						</Child>
 					</Child>
 					<Child Name="AfxMDIFrame140u" Owner="{E67DE95E-4234-4A59-883E-DE78C457D077}">
-						<Child Name="AfxFrameOrView140u" Owner="{9FB7E215-79FD-4332-B9B8-DF75B9CC991A}">
-							<Child Name="AfxMDIFrame140u" Owner="{1577DB9D-90F9-4D37-8006-47412D97CDD3}">
+						<Child Name="ShipmentPane" Owner="{9FB7E215-79FD-4332-B9B8-DF75B9CC991A}">
+							<Child Name="ShipmentView" Owner="{1577DB9D-90F9-4D37-8006-47412D97CDD3}">
 								<Child Name="page32770" Owner="{1670755D-39DC-40D2-87D7-73789979B70F}">
 									<Child Name="tbc" Owner="{5839D0E5-BBA8-46E0-8AFA-82785D9C9A7C}" />
 									<Child Name="pageAttachments" Owner="{130A4A32-83C1-4AF2-A40D-E20CED800A11}">
@@ -24931,8 +24971,9 @@
 											<Child Name="listitemLoaded2" Owner="{15C248FE-F97E-4BD3-B6C1-A4B8653BBFF9}" />
 										</Child>
 									</Child>
-									<Child Name="Tree1" Owner="{51B23BF7-55C0-4A29-8746-5F63B917E38C}" />
 								</Child>
+								<Child Name="CargoTree" Owner="{51B23BF7-55C0-4A29-8746-5F63B917E38C}" />
+								<Child Name="propertypage" Owner="{931486E6-B3A7-4A27-842D-9837F5F80F14}" />
 							</Child>
 							<Child Name="toolbar" Owner="{D37DA624-5AFD-4A37-9881-C1630089ADA7}">
 								<Child Name="splitbuttonHouses" Owner="{1FA30DDA-9CF6-42DB-93DE-BB554D12DDBF}">
