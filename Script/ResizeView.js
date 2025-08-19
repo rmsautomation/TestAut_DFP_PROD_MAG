@@ -31,7 +31,7 @@
 
     if (width < 422 || width > 500) {
       if (width === 0){
-      Aliases.ExpExpl.mainWindow.mainFrame.AfxMDIFrame140u.ShipmentPane.ShipmentView.Drag(1663, 341, -627, 2);
+      Aliases.ExpExpl.mainWindow.mainFrame.AfxMDIFrame140u.ShipmentPane.ShipmentView.Drag(1712, 341, -627, 2);
   aqUtils.Delay(300);
     cargoTree =Aliases.ExpExpl.mainWindow.mainFrame.AfxMDIFrame140u.ShipmentPane.ShipmentView.propertypage;
       Log.Message("*** SIZE CARGO TREE: " + cargoTree.Width);
