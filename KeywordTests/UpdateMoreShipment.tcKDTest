@@ -18,12 +18,12 @@
 					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
 						<Parameter Name="Item" DefVarType="12" VarType="8" ValueType="6" ValueValue="More Info" />
 					</Parameters>
-					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.ExpExpl.mainWindow.mainFrame.AfxMDIFrame140u.AfxFrameOrView140u.AfxMDIFrame140u.page32770.tbc;" />
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.ExpExpl.mainWindow.mainFrame.AfxMDIFrame140u.ShipmentPane.ShipmentView.page32770.tbc;" />
 				</Data>
 			</Operation>
 			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
 				<Data Description="Clicks the &apos;%n&apos; control." Action="ClickButton">
-					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.ExpExpl.mainWindow.mainFrame.AfxMDIFrame140u.AfxFrameOrView140u.AfxMDIFrame140u.page32770.page32770.cbxINCOTerms.buttonOpen;" />
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.ExpExpl.mainWindow.mainFrame.AfxMDIFrame140u.ShipmentPane.ShipmentView.page32770.page32770.cbxINCOTerms.buttonOpen;" />
 				</Data>
 			</Operation>
 			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
@@ -48,7 +48,7 @@
 					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
 						<Parameter Name="Item" DefVarType="12" VarType="8" ValueType="6" ValueValue="Test" />
 					</Parameters>
-					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.ExpExpl.mainWindow.mainFrame.AfxMDIFrame140u.AfxFrameOrView140u.AfxMDIFrame140u.page32770.page32770.cbxINCOTerms;" />
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.ExpExpl.mainWindow.mainFrame.AfxMDIFrame140u.ShipmentPane.ShipmentView.page32770.page32770.cbxINCOTerms;" />
 				</Data>
 			</Operation>
 			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
@@ -56,7 +56,7 @@
 					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
 						<Parameter Name="Item" DefVarType="12" VarType="8" ValueType="6" ValueValue="No" />
 					</Parameters>
-					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.ExpExpl.mainWindow.mainFrame.AfxMDIFrame140u.AfxFrameOrView140u.AfxMDIFrame140u.page32770.page32770.cbxBoolean;" />
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.ExpExpl.mainWindow.mainFrame.AfxMDIFrame140u.ShipmentPane.ShipmentView.page32770.page32770.cbxBoolean;" />
 				</Data>
 			</Operation>
 			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
@@ -73,7 +73,7 @@
 							</Values>
 						</Parameter>
 					</Parameters>
-					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.ExpExpl.mainWindow.mainFrame.AfxMDIFrame140u.AfxFrameOrView140u.AfxMDIFrame140u.page32770.page32770.editTextShipperRef;" />
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.ExpExpl.mainWindow.mainFrame.AfxMDIFrame140u.ShipmentPane.ShipmentView.page32770.page32770.editTextShipperRef;" />
 				</Data>
 			</Operation>
 			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
@@ -81,7 +81,7 @@
 					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
 						<Parameter Name="Text" DefVarType="8" ParamType="{2B146992-A675-4CF3-9B71-7EE4A1CA11B2}" Expression="&quot;UPDATEDSHIPPER&quot;+Project.Variables.shipmentName" />
 					</Parameters>
-					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.ExpExpl.mainWindow.mainFrame.AfxMDIFrame140u.AfxFrameOrView140u.AfxMDIFrame140u.page32770.page32770.editTextShipperRef;" />
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.ExpExpl.mainWindow.mainFrame.AfxMDIFrame140u.ShipmentPane.ShipmentView.page32770.page32770.editTextShipperRef;" />
 				</Data>
 			</Operation>
 			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
@@ -98,7 +98,7 @@
 							</Values>
 						</Parameter>
 					</Parameters>
-					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.ExpExpl.mainWindow.mainFrame.AfxMDIFrame140u.AfxFrameOrView140u.AfxMDIFrame140u.page32770.page32770.editCnsigneeRef;" />
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.ExpExpl.mainWindow.mainFrame.AfxMDIFrame140u.ShipmentPane.ShipmentView.page32770.page32770.editCnsigneeRef;" />
 				</Data>
 			</Operation>
 			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
@@ -106,7 +106,7 @@
 					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
 						<Parameter Name="Text" DefVarType="8" ParamType="{2B146992-A675-4CF3-9B71-7EE4A1CA11B2}" Expression="&quot;UPDATEDCONSIGNEE&quot;+Project.Variables.shipmentName" />
 					</Parameters>
-					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.ExpExpl.mainWindow.mainFrame.AfxMDIFrame140u.AfxFrameOrView140u.AfxMDIFrame140u.page32770.page32770.editCnsigneeRef;" />
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.ExpExpl.mainWindow.mainFrame.AfxMDIFrame140u.ShipmentPane.ShipmentView.page32770.page32770.editCnsigneeRef;" />
 				</Data>
 			</Operation>
 			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
@@ -123,7 +123,7 @@
 							</Values>
 						</Parameter>
 					</Parameters>
-					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.ExpExpl.mainWindow.mainFrame.AfxMDIFrame140u.AfxFrameOrView140u.AfxMDIFrame140u.page32770.page32770.editShipmentguid;" />
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.ExpExpl.mainWindow.mainFrame.AfxMDIFrame140u.ShipmentPane.ShipmentView.page32770.page32770.editShipmentguid;" />
 				</Data>
 			</Operation>
 			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
@@ -131,7 +131,7 @@
 					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
 						<Parameter Name="Text" DefVarType="8" VarType="8" ValueType="6" ValueValue="UPDATEDPRICING" />
 					</Parameters>
-					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.ExpExpl.mainWindow.mainFrame.AfxMDIFrame140u.AfxFrameOrView140u.AfxMDIFrame140u.page32770.page32770.editShipmentguid;" />
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.ExpExpl.mainWindow.mainFrame.AfxMDIFrame140u.ShipmentPane.ShipmentView.page32770.page32770.editShipmentguid;" />
 				</Data>
 			</Operation>
 			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
@@ -148,7 +148,7 @@
 							</Values>
 						</Parameter>
 					</Parameters>
-					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.ExpExpl.mainWindow.mainFrame.AfxMDIFrame140u.AfxFrameOrView140u.AfxMDIFrame140u.page32770.page32770.editDFPForwarder;" />
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.ExpExpl.mainWindow.mainFrame.AfxMDIFrame140u.ShipmentPane.ShipmentView.page32770.page32770.editDFPForwarder;" />
 				</Data>
 			</Operation>
 			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
@@ -156,7 +156,7 @@
 					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
 						<Parameter Name="Text" DefVarType="8" VarType="8" ValueType="6" ValueValue="UPDATEDForwarder" />
 					</Parameters>
-					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.ExpExpl.mainWindow.mainFrame.AfxMDIFrame140u.AfxFrameOrView140u.AfxMDIFrame140u.page32770.page32770.editDFPForwarder;" />
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.ExpExpl.mainWindow.mainFrame.AfxMDIFrame140u.ShipmentPane.ShipmentView.page32770.page32770.editDFPForwarder;" />
 				</Data>
 			</Operation>
 			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
@@ -164,7 +164,7 @@
 					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
 						<Parameter Name="Item" DefVarType="12" VarType="8" ValueType="6" ValueValue="COLLECT" />
 					</Parameters>
-					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.ExpExpl.mainWindow.mainFrame.AfxMDIFrame140u.AfxFrameOrView140u.AfxMDIFrame140u.page32770.page32770.cbxDFPPaymentTerms;" />
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.ExpExpl.mainWindow.mainFrame.AfxMDIFrame140u.ShipmentPane.ShipmentView.page32770.page32770.cbxDFPPaymentTerms;" />
 				</Data>
 			</Operation>
 			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
@@ -172,7 +172,7 @@
 					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
 						<Parameter Name="Item" DefVarType="12" VarType="8" ValueType="6" ValueValue="DAT" />
 					</Parameters>
-					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.ExpExpl.mainWindow.mainFrame.AfxMDIFrame140u.AfxFrameOrView140u.AfxMDIFrame140u.page32770.page32770.cbxDFPINCOTerms;" />
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.ExpExpl.mainWindow.mainFrame.AfxMDIFrame140u.ShipmentPane.ShipmentView.page32770.page32770.cbxDFPINCOTerms;" />
 				</Data>
 			</Operation>
 			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
@@ -189,7 +189,7 @@
 							</Values>
 						</Parameter>
 					</Parameters>
-					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.ExpExpl.mainWindow.mainFrame.AfxMDIFrame140u.AfxFrameOrView140u.AfxMDIFrame140u.page32770.page32770.editDFPCargoReady;" />
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.ExpExpl.mainWindow.mainFrame.AfxMDIFrame140u.ShipmentPane.ShipmentView.page32770.page32770.editDFPCargoReady;" />
 				</Data>
 			</Operation>
 			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
@@ -197,7 +197,7 @@
 					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
 						<Parameter Name="Text" DefVarType="8" VarType="8" ValueType="6" ValueValue="CargoUPDATED" />
 					</Parameters>
-					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.ExpExpl.mainWindow.mainFrame.AfxMDIFrame140u.AfxFrameOrView140u.AfxMDIFrame140u.page32770.page32770.editDFPCargoReady;" />
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.ExpExpl.mainWindow.mainFrame.AfxMDIFrame140u.ShipmentPane.ShipmentView.page32770.page32770.editDFPCargoReady;" />
 				</Data>
 			</Operation>
 			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
@@ -214,7 +214,7 @@
 							</Values>
 						</Parameter>
 					</Parameters>
-					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.ExpExpl.mainWindow.mainFrame.AfxMDIFrame140u.AfxFrameOrView140u.AfxMDIFrame140u.page32770.page32770.editShipperReference;" />
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.ExpExpl.mainWindow.mainFrame.AfxMDIFrame140u.ShipmentPane.ShipmentView.page32770.page32770.editShipperReference;" />
 				</Data>
 			</Operation>
 			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
@@ -222,7 +222,7 @@
 					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
 						<Parameter Name="Text" DefVarType="8" VarType="8" ValueType="6" ValueValue="ShipperRefUPDATED" />
 					</Parameters>
-					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.ExpExpl.mainWindow.mainFrame.AfxMDIFrame140u.AfxFrameOrView140u.AfxMDIFrame140u.page32770.page32770.editShipperReference;" />
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.ExpExpl.mainWindow.mainFrame.AfxMDIFrame140u.ShipmentPane.ShipmentView.page32770.page32770.editShipperReference;" />
 				</Data>
 			</Operation>
 			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
@@ -239,7 +239,7 @@
 							</Values>
 						</Parameter>
 					</Parameters>
-					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.ExpExpl.mainWindow.mainFrame.AfxMDIFrame140u.AfxFrameOrView140u.AfxMDIFrame140u.page32770.page32770.editShipmentGuid2;" />
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.ExpExpl.mainWindow.mainFrame.AfxMDIFrame140u.ShipmentPane.ShipmentView.page32770.page32770.editShipmentGuid2;" />
 				</Data>
 			</Operation>
 			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
@@ -247,7 +247,7 @@
 					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
 						<Parameter Name="Text" DefVarType="8" VarType="8" ValueType="6" ValueValue="ShipmentGuidUPDATED" />
 					</Parameters>
-					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.ExpExpl.mainWindow.mainFrame.AfxMDIFrame140u.AfxFrameOrView140u.AfxMDIFrame140u.page32770.page32770.editShipmentGuid2;" />
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.ExpExpl.mainWindow.mainFrame.AfxMDIFrame140u.ShipmentPane.ShipmentView.page32770.page32770.editShipmentGuid2;" />
 				</Data>
 			</Operation>
 		</Children>

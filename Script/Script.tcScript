@@ -22,5 +22,7 @@
 		<child name="CleanRegistryMagaya" key="{CC1BB863-7EBC-489C-9F6E-5752A2DCE0DD}" path="CleanRegistryMagaya.js" />
 		<child name="RunBatCloseExplorer" key="{3969DDB8-657A-4F11-84E4-1272E4A1BA31}" path="RunBatCloseExplorer.js" />
 		<child name="ClickOnOutgoingSH" key="{A4C82D5E-7368-4EB0-8EF3-AE687DC4ED7B}" path="ClickOnOutgoingSH.js" />
+		<child name="ResizeView" key="{E778DD8C-663F-4751-B91B-18E012FF6B1D}" path="ResizeView.js" />
+		<child name="GetCollapseButtonState" key="{BA25C7DA-11B7-470B-BA66-0EB523A1218A}" path="GetCollapseButtonState.js" />
 	</children>
 </Root>

@@ -54,7 +54,7 @@
 							</Values>
 						</Parameter>
 					</Parameters>
-					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.ExpExpl.mainWindow.mainFrame.AfxMDIFrame140u.AfxFrameOrView140u.toolbar;" />
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.ExpExpl.mainWindow.mainFrame.AfxMDIFrame140u.ShipmentPane.toolbar;" />
 				</Data>
 			</Operation>
 			<Operation Type="{CE294ABA-E13B-4B94-AFC8-FA8F4249123D}">
@@ -63,7 +63,7 @@
 					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
 						<Parameter Name="Item" DefVarType="12" VarType="8" ValueType="6" ValueValue="Set/Reset In Transit" />
 					</Parameters>
-					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.ExpExpl.mainWindow.mainFrame.AfxMDIFrame140u.AfxFrameOrView140u.toolbar;" />
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.ExpExpl.mainWindow.mainFrame.AfxMDIFrame140u.ShipmentPane.toolbar;" />
 				</Data>
 			</Operation>
 			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
@@ -80,7 +80,7 @@
 							</Values>
 						</Parameter>
 					</Parameters>
-					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.ExpExpl.mainWindow.mainFrame.AfxMDIFrame140u.AfxFrameOrView140u.toolbar.splitbuttonActions.dropdownbuttonOpen;" />
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.ExpExpl.mainWindow.mainFrame.AfxMDIFrame140u.ShipmentPane.toolbar.splitbuttonActions.dropdownbuttonOpen;" />
 				</Data>
 			</Operation>
 			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
@@ -119,7 +119,7 @@
 					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
 						<Parameter Name="Item" DefVarType="12" VarType="8" ValueType="6" ValueValue="Events" />
 					</Parameters>
-					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.ExpExpl.mainWindow.mainFrame.AfxMDIFrame140u.AfxFrameOrView140u.AfxMDIFrame140u.page32770.tbc;" />
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.ExpExpl.mainWindow.mainFrame.AfxMDIFrame140u.ShipmentPane.ShipmentView.page32770.tbc;" />
 				</Data>
 			</Operation>
 			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
@@ -136,14 +136,14 @@
 							</Values>
 						</Parameter>
 					</Parameters>
-					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.ExpExpl.mainWindow.mainFrame.AfxMDIFrame140u.AfxFrameOrView140u.AfxMDIFrame140u.page32770.pageEvents.List1;" />
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.ExpExpl.mainWindow.mainFrame.AfxMDIFrame140u.ShipmentPane.ShipmentView.page32770.pageEvents.List1;" />
 				</Data>
 			</Operation>
 			<Operation Type="{2F0A05A2-4ECD-47CE-A12B-9843A308F2DC}">
 				<Data Description="Checks whether the %p2 property of the %p1 object %p3 %p4.">
 					<CommonData Disabled="True" />
 					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
-						<Parameter Name="Object" DefVarType="12" ParamType="{FC0DF733-E97F-46DD-8307-EA4DFF891298}" Expression="Aliases.ExpExpl.mainWindow.mainFrame.AfxMDIFrame140u.AfxFrameOrView140u.AfxMDIFrame140u.page32770.pageEvents.List1" />
+						<Parameter Name="Object" DefVarType="12" ParamType="{FC0DF733-E97F-46DD-8307-EA4DFF891298}" Expression="Aliases.ExpExpl.mainWindow.mainFrame.AfxMDIFrame140u.ShipmentPane.ShipmentView.page32770.pageEvents.List1" />
 						<Parameter Name="Property" DefVarType="8" VarType="8" ValueType="6" ValueValue="wItemCount" />
 						<Parameter Name="Condition" DefVarType="3" VarType="3" ValueType="1" ValueValue="0" />
 						<Parameter Name="Value" DefVarType="12" VarType="3" ValueType="1" ValueValue="1" />
@@ -154,7 +154,7 @@
 			<Operation Type="{2F0A05A2-4ECD-47CE-A12B-9843A308F2DC}">
 				<Data Description="Checks whether the %p2 property of the %p1 object %p3 %p4.">
 					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
-						<Parameter Name="Object" DefVarType="12" ParamType="{FC0DF733-E97F-46DD-8307-EA4DFF891298}" Expression="Aliases.ExpExpl.mainWindow.mainFrame.AfxMDIFrame140u.AfxFrameOrView140u.AfxMDIFrame140u.page32770.pageEvents.List1" />
+						<Parameter Name="Object" DefVarType="12" ParamType="{FC0DF733-E97F-46DD-8307-EA4DFF891298}" Expression="Aliases.ExpExpl.mainWindow.mainFrame.AfxMDIFrame140u.ShipmentPane.ShipmentView.page32770.pageEvents.List1" />
 						<Parameter Name="Property" DefVarType="8" VarType="8" ValueType="6" ValueValue="wItem(0, &quot;Shipment has been set as in transit&quot;)" />
 						<Parameter Name="Condition" DefVarType="3" VarType="3" ValueType="1" ValueValue="0" />
 						<Parameter Name="Value" DefVarType="12" VarType="8" ValueType="6" ValueValue="Shipment has been set as in transit" />
@@ -167,7 +167,7 @@
 					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
 						<Parameter Name="Item" DefVarType="12" VarType="8" ValueType="6" ValueValue="Commodities" />
 					</Parameters>
-					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.ExpExpl.mainWindow.mainFrame.AfxMDIFrame140u.AfxFrameOrView140u.AfxMDIFrame140u.page32770.tbc;" />
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.ExpExpl.mainWindow.mainFrame.AfxMDIFrame140u.ShipmentPane.ShipmentView.page32770.tbc;" />
 				</Data>
 			</Operation>
 			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
@@ -185,13 +185,13 @@
 							</Values>
 						</Parameter>
 					</Parameters>
-					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.ExpExpl.mainWindow.mainFrame.AfxMDIFrame140u.AfxFrameOrView140u.AfxMDIFrame140u.page32770.pageCommodities.List1;" />
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.ExpExpl.mainWindow.mainFrame.AfxMDIFrame140u.ShipmentPane.ShipmentView.page32770.pageCommodities.List1;" />
 				</Data>
 			</Operation>
 			<Operation Type="{2F0A05A2-4ECD-47CE-A12B-9843A308F2DC}">
 				<Data Description="Checks whether the %p2 property of the %p1 object %p3 %p4.">
 					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
-						<Parameter Name="Object" DefVarType="12" ParamType="{FC0DF733-E97F-46DD-8307-EA4DFF891298}" Expression="Aliases.ExpExpl.mainWindow.mainFrame.AfxMDIFrame140u.AfxFrameOrView140u.AfxMDIFrame140u.page32770.pageCommodities.List1" />
+						<Parameter Name="Object" DefVarType="12" ParamType="{FC0DF733-E97F-46DD-8307-EA4DFF891298}" Expression="Aliases.ExpExpl.mainWindow.mainFrame.AfxMDIFrame140u.ShipmentPane.ShipmentView.page32770.pageCommodities.List1" />
 						<Parameter Name="Property" DefVarType="8" VarType="8" ValueType="6" ValueValue="wItem(0, &quot;In Transit&quot;)" />
 						<Parameter Name="Condition" DefVarType="3" VarType="3" ValueType="1" ValueValue="0" />
 						<Parameter Name="Value" DefVarType="12" VarType="8" ValueType="6" ValueValue="In Transit" />
