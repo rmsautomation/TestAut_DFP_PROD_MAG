@@ -16,6 +16,11 @@
 				<environments activeCloud="SWT" />
 				<children />
 			</testItem>
+			<testItem name="VerifyMagayaVersion" key="{111CADF5-E0FC-45ED-B640-BEF0060DCCF0}" group="False" parallel="False" enabled="True" testMoniker="KDT\{E95837E1-CF23-4BD2-9D32-000FFC7E2019}" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+				<testParameters />
+				<environments activeCloud="SWT" />
+				<children />
+			</testItem>
 			<testItem name="TC_22_580_IntAuthentication" key="{FB042641-C7A8-4B89-A125-554CA6535CCD}" group="False" parallel="False" enabled="True" testMoniker="KDT\{60478CEE-BA1C-4091-A4EE-5B23196F560B}" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
 				<testParameters />
 				<environments activeCloud="SWT" />
