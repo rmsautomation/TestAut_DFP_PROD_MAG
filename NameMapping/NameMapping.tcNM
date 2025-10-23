@@ -20000,7 +20000,6 @@
 																										<Children>
 																											<Child Name="grouping" Key="{47341387-ED0B-40AA-BE4B-71C529F4542B}">
 																												<Image FileName="-1376914032" Left="776" Top="545" Right="801" Bottom="570" />
-																												<TypeInfo Item0="{BDA8D51C-2C41-438F-BC04-FBB25C701F42}" />
 																												<Properties>
 																													<Property Name="ObjectType">
 																														<Value Value="Grouping" />
@@ -21463,7 +21462,6 @@
 																			</Child>
 																			<Child Name="propertypage" Key="{931486E6-B3A7-4A27-842D-9837F5F80F14}">
 																				<Image FileName="-1445459497" Left="1921" Top="394" Right="1928" Bottom="1042" />
-																				<TypeInfo Item0="{BC624F6B-D47F-4FF8-85F8-ECE509130848}" />
 																				<Properties>
 																					<Property Name="WndClass">
 																						<Value Value="#32770" />
@@ -22236,7 +22234,6 @@
 												<Children>
 													<Child Name="outline" Key="{500EB79F-6825-4B38-9276-EA1EE780183A}">
 														<Image FileName="652160262" Left="8" Top="147" Right="308" Bottom="1046" />
-														<TypeInfo Item0="{BCFEA157-13DA-46C1-BF7F-BAD1D4DF24E1}" />
 														<Properties>
 															<Property Name="WndClass">
 																<Value Value="SysTreeView32" />

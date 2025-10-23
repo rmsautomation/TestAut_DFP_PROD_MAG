@@ -289,17 +289,6 @@
 					</Parameters>
 				</Data>
 			</Operation>
-			<Operation Type="{CDD7459C-6C02-4A5C-B1A2-5BD844F1B61B}">
-				<Data Description="Checks whether the property value matches the specified condition. ">
-					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
-						<Parameter Name="Property" DefVarType="12" ParamType="{5EF65F78-D6E6-4C84-90CA-F464F32D7A1D}" Expression="Aliases.ExpExpl.dlg.page327702.Edit3.wText" />
-						<Parameter Name="Condition" DefVarType="3" VarType="3" ValueType="1" ValueValue="0" />
-						<Parameter Name="Value" DefVarType="12" ParamType="{83D6F80C-4323-4034-92E3-FD2A65D2E6FC}" VariableType="2" VariableName="now" />
-						<Parameter Name="CaseSensitive" DefVarType="11" DefValueType="7" DefValueValue="True" VarType="11" ValueType="7" ValueValue="True" />
-						<Parameter Name="MessageType" DefVarType="3" DefValueType="1" DefValueValue="2" VarType="3" ValueType="1" ValueValue="3" />
-					</Parameters>
-				</Data>
-			</Operation>
 			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
 				<Data Description="Selects the %p1 tab of the &apos;%n&apos; tab control." Action="ClickTab">
 					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
