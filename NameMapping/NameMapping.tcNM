@@ -15104,13 +15104,16 @@
 												<Value Value="xpath=//h5[normalize-space(text())=&apos;$100.00&apos;]" />
 											</Selector>
 											<Selector>
-												<Value Value="//h5[contains(text(), &apos;$100.00&apos;)]" />
+												<Value Value="xpath=//h5[normalize-space(text())=&apos;$100.00&apos;]" />
 											</Selector>
 											<Selector>
-												<Value Value="//h5[contains(@class, &apos;font-weight-light&apos;)]" />
+												<Value Value="//h5[contains(text(), &apos;$100.00&apos;)]" Enabled="False" />
 											</Selector>
 											<Selector>
-												<Value Value="//div/div/div/div/h5" />
+												<Value Value="//h5[contains(@class, &apos;font-weight-light&apos;)]" Enabled="False" />
+											</Selector>
+											<Selector>
+												<Value Value="//div/div/div/div/h5" Enabled="False" />
 											</Selector>
 										</Selectors>
 									</Child>
